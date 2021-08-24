@@ -4,9 +4,9 @@
 
 Halmis liked to sit by the river, among reeds or beneath willows, narrow-leaved and moving with the slenderest breath of Myr the air-sprite. Near her brothers’ house, where she lived, there lay among reeds, half drawn from the water, the ruin of a boat. It was a place to sit and think, whether the sun shone or the clouds scudded. Halmis possessed a stringed instrument of music, a thing akin to the lyre. Sometimes she brought this with her to the boat, and played upon it sitting there, hidden by the reeds. Sometimes she sang, her voice rising from the reed bed like a voice of the earth.
 
-Ramiki likewise could make a song and sing it.
+Ramiki likewise could make a song and sing it.  
 
-Halmis could prophesy; Ramiki likewise.
+Halmis could prophesy; Ramiki likewise.  
 
 Each had, beyond the common, perception, memory, imagination, and moving gift of speech. When either recited certain things to the people of the river country, and gave advice or promised good or threatened penalty, it was called prophecy. When what they said came to pass they received great honour; when it failed they said that the time was not yet, but that the people would reach it. Halmis believed in her power. Ramiki believed in his power. While that was so, either was capable at times of inner doubt and unhappiness. But, very largely, they kept that to themselves. That course, they thought, was undeniably wiser, in the world as it was constituted. As for belief in each other’s powers, that wavered.
 
@@ -30,68 +30,68 @@ A concourse was held, an assembly of the folk of the plain. Not so many miles wi
 
 Ramiki and Halmis stood together upon the stone that was wide as the floor of a house. The day was advanced, the light gold-red; behind were three great trees, before and to either hand the scimitar-shaped crowd of the people, excited already by music and by passionate, persuasive speech. The drums beat, the cymbals clanged, then silence, then right posturing by prophet and prophetess, then words half spoken, half sung, sent from the lips with force, ringing and reaching!
 
->“Folk of the river-plain!”
+>“Folk of the river-plain!”  
 
 chanted Ramiki.
 
-> “People of Arzan, the high god, the great god,  
-> God of the gods!
-> For you I cried to Arzan.
-> ‘O Arzan!
-> he people increase as it were the river in spring time!’”
+> “People of Arzan, the high god, the great god,    
+> God of the gods!  
+> For you I cried to Arzan.  
+> ‘O Arzan!  
+> he people increase as it were the river in spring time!’”  
 
-Halmis the prophetess took the chant:—
+Halmis the prophetess took the chant:—  
 
->“In the fresh green month there are two birds!
->In the bright, flowering month, there are six.
->I said to the god,
->‘It is a weary thing,
->This giving death to nestlings!
->The old, too, often like to rest a little longer,
->Watching the children!’
->I said to the god!”
+>“In the fresh green month there are two birds!  
+>In the bright, flowering month, there are six.  
+>I said to the god,  
+>‘It is a weary thing,  
+>This giving death to nestlings!  
+>The old, too, often like to rest a little longer,  
+>Watching the children!’  
+>I said to the god!”  
 
-Ramiki chanted:—
+Ramiki chanted:—  
 
->“Arzan answered Ramiki the prophet,
->‘Look, O man!
->How the river breaks its bonds and is at home in new lands!’”
+>“Arzan answered Ramiki the prophet,  
+>‘Look, O man!  
+>How the river breaks its bonds and is at home in new    lands!’”  
 
-Halmis chanted:—
+Halmis chanted:—  
 
->“The god sang to Halmis—to Halmis who prophesies!—
->‘Stay the birds in the tree where they nested?
->*Lo*, at morn see the wings in the sky!’”
+>“The god sang to Halmis—to Halmis who prophesies!—  
+>‘Stay the birds in the tree where they nested?  
+>*Lo*, at morn see the wings in the sky!’”  
 
-Ramiki made a great gesture. His voice soared and rang:—
+Ramiki made a great gesture. His voice soared and rang:—  
 
->“From the storm spoke Arzan: ‘Learn O prophet,
->What my folk of the plain have forgotten!
->Of old ye moved as ye grew,
->Ye left ever the eaten land for the fresh land!’”
+>“From the storm spoke Arzan: ‘Learn O prophet,  
+>What my folk of the plain have forgotten! 
+>Of old ye moved as ye grew,  
+>Ye left ever the eaten land for the fresh land!’”  
 
-Halmis swayed in the wind of rapture.
+Halmis swayed in the wind of rapture.  
 
->“Two shall stay and two shall go,”
+>“Two shall stay and two shall go,”  
 
->chanted Halmis.
+chanted Halmis.  
 
->“For some love the home tree and some love the new tree!
->The new soon becomes the home tree.
->The god smiles on both so we judge when to alter!”
+>“For some love the home tree and some love the new tree!  
+>The new soon becomes the home tree.  
+>The god smiles on both so we judge when to alter!”  
 
-Ramiki moved upon the stone. At the edge he stooped, he caught from one below a drum, he beat upon it.
+Ramiki moved upon the stone. At the edge he stooped, he   caught from one below a drum, he beat upon it.  
 
->“I awaked in the morning!
->Arzan who dwells in the mountain said, ‘Go!’”
+>“I awaked in the morning!    
+>Arzan who dwells in the mountain said, ‘Go!’”  
 
 Halmis took cymbals, she lifted her arms, there clashed forth sonorous music.
 
->“‘Part!’ saith the god.
->‘Two nations where there was one.
->And one it shall tarry, and one it shall wander!’—
->‘Come!’ cries the earth, ‘for my arms they are wide,
->And my breasts they are full, in the east and the west!’”
+>“‘Part!’ saith the god.  
+>‘Two nations where there was one.  
+>And one it shall tarry, and one it shall wander!’—  
+>‘Come!’ cries the earth, ‘for my arms they are wide,  
+>And my breasts they are full, in the east and the west!’”  
 
 “Hai! we will divide!” cried the people; and would have done it that day if the chiefs and the elders had allowed....
 
@@ -255,262 +255,262 @@ Ramiki had used a great strain, a wide-flowing, deep-rushing chant. Now he chang
 
 Halmis heard them where she leaned against the tree, decked to sing and not singing, here to prophesy from the god-stone and not prophesying, come from the river with a high heart and now knowing fear. It was like a spell upon her, a slow, cold poison in her veins. Ramiki—Ramiki—Ramiki only was singing to the people.... She heard him, and though she tried not to believe what he sang, at last in great part she believed. How could she else, being of the river-plain and so very like Ramiki who himself believed?... She was very capable of a sense of sin—and perhaps it all had come about that way. Arzan had his favourite—no doubt of that! There must be reasons for favour and disfavour.... Ramiki—Ramiki—Ramiki was singing. As she stood under the tree she seemed to herself, for one strange moment, to have a child in her arms.... Ramiki sang:—
 
->“On the mountain-top stood the stone of Arzan,
->Arzan-stone where Arzan dwelled.
->Izd came and coiled around the mountain.
->Izd said to her daughters, ‘Yet shall we win!’
->Arzan had nothing to do that day.
->He was ready for work he had dreamed about.
->By the sacred river stood the sacred tree.
->He broke a bough that was shaped to his mind.
->Arzan sat on the stone and carved,
->Arzan carved the bough of the tree.
->Arzan cut from the bough a man!
->Fair was the man, and tall and brave!
->‘My man,’ said Arzan, and gave him blood,
->Piercing the arm that shook the god-spear,
->Pouring the drops in the veins of the man.
->‘My man,’ said Arzan, and gave him warmth,
->Held to his side within the god-robe.
->‘My man,’ said Arzan, and gave him breath,
->Putting his mouth to the first man’s mouth.
->‘My man,’ said Arzan, and gave him speech:
->‘Arja!’ said the god. Said Arja, ‘Arzan!’”
+>“On the mountain-top stood the stone of Arzan,  
+>Arzan-stone where Arzan dwelled.  
+>Izd came and coiled around the mountain.  
+>Izd said to her daughters, ‘Yet shall we win!’  
+>Arzan had nothing to do that day.  
+>He was ready for work he had dreamed about.  
+>By the sacred river stood the sacred tree.  
+>He broke a bough that was shaped to his mind.  
+>Arzan sat on the stone and carved,  
+>Arzan carved the bough of the tree.  
+>Arzan cut from the bough a man!  
+>Fair was the man, and tall and brave!  
+>‘My man,’ said Arzan, and gave him blood,  
+>Piercing the arm that shook the god-spear,  
+>Pouring the drops in the veins of the man.  
+>‘My man,’ said Arzan, and gave him warmth,  
+>Held to his side within the god-robe.  
+>‘My man,’ said Arzan, and gave him breath,  
+>Putting his mouth to the first man’s mouth.  
+>‘My man,’ said Arzan, and gave him speech:  
+>‘Arja!’ said the god. Said Arja, ‘Arzan!’”  
 
 The river-plain that was descended from Arja clapped hands and rocked itself. The band of young men shouted to the sky:—
 
->“‘*Arja!’ said the god. Said Arja, ‘Arzan!*’”
+>“‘*Arja!’ said the god. Said Arja, ‘Arzan!*’”  
 
-Ramiki pursued his story, and while he chanted he acted.
+Ramiki pursued his story, and while he chanted he acted.  
 
->“Izd heard them talking, the evil Izd!
->Izd and her daughters were coiled below.
->Arja lived happy, Arja alone.
->Arzan spoke from the sacred mount.
->‘To make more blissful, I will give you sons.’
->Arzan shook leaves from the sacred tree.
->They fell in a throng around the god-stone.
->They fell down as leaves, they rose up as men,
->Sons of Arja.”
+>“Izd heard them talking, the evil Izd!  
+>Izd and her daughters were coiled below.  
+>Arja lived happy, Arja alone.  
+>Arzan spoke from the sacred mount.  
+>‘To make more blissful, I will give you sons.’  
+>Arzan shook leaves from the sacred tree.  
+>They fell in a throng around the god-stone.  
+>They fell down as leaves, they rose up as men,  
+>Sons of Arja.”  
 
-“*Sons of Arja!*” the youths shouted. “*Arja’s sons!*”
+“*Sons of Arja!*” the youths shouted. “*Arja’s sons!*”  
 
->“Ten moons of Arzan, a thousand years,
->Arja lived happy, he and his sons.
->They had golden bows and golden arrows,
->Antlered deer to make them food.
->When they put in wheat it came up thick.
->When they planted barley it never failed.
->Arzan breathed on the grass that grew around,
->So were sheep and oxen and horses bred,
->And all were the best that ever were seen!
->The fish in the river loved the net.
->They made a boat with a thought from a tree.
->Their houses were large and filled with goods.
->Arzan from pebbles formed bondmen,
->Made them strong to take and bring,
->Gave them heart-love for the Arzan-men,
->So that they wrought and never rebelled.
->The grapes grew in clusters twice that big!
->Winter was not, nor was parching heat.
->Rain came at their call and went at their wish.
->Arzan made a herb named Love-among-friends.
->They planted it thick, and tended it well.
->Arzan took from each man a red drop of blood,
->Mixed it with earth and made the bull, Courage.
->Arzan took from each man a thought while he slept,
->Drew all through his hands and made the rope, Wisdom.
->A thousand years lived Arja there,
->On the mountain sides, near the Arzan-stone.
->Izd and her daughters coiled below,
->Cried Izd to her daughters, ‘Yet shall we win!’
->Arzan looked down from the Arzan-stone.
->‘Are you there, Izd? The man is mine!’”
+>“Ten moons of Arzan, a thousand years,  
+>Arja lived happy, he and his sons.  
+>They had golden bows and golden arrows,  
+>Antlered deer to make them food.  
+>When they put in wheat it came up thick.  
+>When they planted barley it never failed.  
+>Arzan breathed on the grass that grew around,  
+>So were sheep and oxen and horses bred,  
+>And all were the best that ever were seen!  
+>The fish in the river loved the net.  
+>They made a boat with a thought from a tree.  
+>Their houses were large and filled with goods.  
+>Arzan from pebbles formed bondmen,  
+>Made them strong to take and bring,  
+>Gave them heart-love for the Arzan-men,  
+>So that they wrought and never rebelled.  
+>The grapes grew in clusters twice that big!  
+>Winter was not, nor was parching heat.  
+>Rain came at their call and went at their wish.  
+>Arzan made a herb named Love-among-friends.  
+>They planted it thick, and tended it well.  
+>Arzan took from each man a red drop of blood,  
+>Mixed it with earth and made the bull, Courage.  
+>Arzan took from each man a thought while he slept,  
+>Drew all through his hands and made the rope, Wisdom.  
+>A thousand years lived Arja there,  
+>On the mountain sides, near the Arzan-stone.  
+>Izd and her daughters coiled below,  
+>Cried Izd to her daughters, ‘Yet shall we win!’  
+>Arzan looked down from the Arzan-stone.  
+>‘Are you there, Izd? The man is mine!’”  
 
-Shouted the youths,—
+Shouted the youths,—  
 
-“‘*Are you there, Izd? The man is mine!*’”
+“‘*Are you there, Izd? The man is mine!*’”  
 
-The strong sound smote the night. The flame of the torches appeared to leap. The god-stone was lighted, and the figure of the prophet. The crowd, seated or standing, bent like vines to the sun. Interest was carried to a point, and through the point, on the other side of the point, seemed to be space and new landscapes. The mind of the river-plain was ready for explanation—so that the explanation did not offend its sense of probabilities, so that it seemed godly and kingly, so that it was a boat that could sail the river....
+The strong sound smote the night. The flame of the torches   appeared to leap. The god-stone was lighted, and the figure of the prophet. The crowd, seated or standing, bent like vines to the sun. Interest was carried to a point, and through the point, on the other side of the point, seemed to be space and new landscapes. The mind of the river-plain was ready for explanation—so that the explanation did not offend its sense of probabilities, so that it seemed godly and kingly, so that it was a boat that could sail the river....
 
->“Izd said naught, but she set to work,
->Izd and her daughters set to work.
->Over their heads they wove a roof,
->Wide-long as earth and black as soot.
->Arzan looked down from the mountain-top,
->But Izd was hidden under her roof.
->Izd took black mire, a reed and fire,
->Izd took white flint and a cherry stone,
->Izd took dawn-mist and sunset-red,
->Izd took false-dreams and ill-delight,
->And out of them all Izd made a shape.
->She gave it breasts and a beardless face.
->Izd and her daughters lived in the shape.
->Arja sat in the vineyard deep.
->Izd tore the cloud-roof vast and black.
->Beneath the rent she set the shape.
->Arja said, ‘I see down there,
->In a wild, bright light a thing most strange.’
->Arja said, ‘From that to me
->Runs like a stream, a deep, deep wish.’
->Arja turned to the Arzan-stone,
->‘Arzan, O Arzan, maker of me!
->Down there is that that would climb to me!’
->Arzan looked through Izd’s torn roof.
->Arzan was angry with Izd the snake.
->He made a storm and thatched the place,
->So that ever it thundered there and burned,
->And the Arzan-man could not see the shape.
->Then Arja pined, though he could not die.
->‘O Arzan, make me a thing like that,
->To keep me company in Arja-land!’
->Then Arzan frowned and shook the mount.
->Arja hid his head and Arja feared.
->‘I am naught,’ said Arja, ‘but thou art god!’”
+>“Izd said naught, but she set to work,  
+>Izd and her daughters set to work.  
+>Over their heads they wove a roof,  
+>Wide-long as earth and black as soot.  
+>Arzan looked down from the mountain-top,  
+>But Izd was hidden under her roof.  
+>Izd took black mire, a reed and fire,  
+>Izd took white flint and a cherry stone,  
+>Izd took dawn-mist and sunset-red,  
+>Izd took false-dreams and ill-delight,  
+>And out of them all Izd made a shape.  
+>She gave it breasts and a beardless face.  
+>Izd and her daughters lived in the shape.  
+>Arja sat in the vineyard deep.  
+>Izd tore the cloud-roof vast and black.  
+>Beneath the rent she set the shape.  
+>Arja said, ‘I see down there,  
+>In a wild, bright light a thing most strange.’  
+>Arja said, ‘From that to me  
+>Runs like a stream, a deep, deep wish.’  
+>Arja turned to the Arzan-stone,  
+>‘Arzan, O Arzan, maker of me!  
+>Down there is that that would climb to me!’  
+>Arzan looked through Izd’s torn roof.  
+>Arzan was angry with Izd the snake.  
+>He made a storm and thatched the place,  
+>So that ever it thundered there and burned,  
+>And the Arzan-man could not see the shape.  
+>Then Arja pined, though he could not die.  
+>‘O Arzan, make me a thing like that,  
+>To keep me company in Arja-land!’  
+>Then Arzan frowned and shook the mount.  
+>Arja hid his head and Arja feared.  
+>‘I am naught,’ said Arja, ‘but thou art god!’”  
 
 “*We are naught!*” cried the people, “*but he is god!*” 
 
 The drum-players and the long trumpets were come to the stone.
 
->“Arzan took a bough from the sacred tree,
->Less was it at once than the Arja-bough!
->Arzan sat by the river and wrought with the bough.
->A shape Arzan made, like and not like to a man.
->Smooth-faced he made it and gave it breasts.
->*Woman*, said Arzan, and wrought it fair.
->And gave her to Arja in the grove.
->‘Live!’ said Arzan, ‘Be wise and good,
->Tend Arja-land without sorrow and pain,
->And give to me praise who made all well!’
->Then Arzan took of the reeds of the land,
->He spake his word and they stood up fair,
->Daughters of men, with streaming hair.
->Izd and her daughters wept with rage.
->There rose a spring on the mountain side.
->It made a pool like a silver shield.
->The clouds saw themselves and the trees around.
->It drew from a spring by the Arzan-stone.
->‘Touch it not!’ said Arzan. ‘It is mine alone.’
->Izd and her daughters coiled below.
->Said Izd to her daughters, ‘Yet shall we win!’”
+>“Arzan took a bough from the sacred tree,  
+>Less was it at once than the Arja-bough!  
+>Arzan sat by the river and wrought with the bough.  
+>A shape Arzan made, like and not like to a man.  
+>Smooth-faced he made it and gave it breasts.  
+>*Woman*, said Arzan, and wrought it fair.  
+>And gave her to Arja in the grove.  
+>‘Live!’ said Arzan, ‘Be wise and good,  
+>Tend Arja-land without sorrow and pain,  
+>And give to me praise who made all well!’  
+>Then Arzan took of the reeds of the land,  
+>He spake his word and they stood up fair,  
+>Daughters of men, with streaming hair.  
+>Izd and her daughters wept with rage.  
+>There rose a spring on the mountain side.  
+>It made a pool like a silver shield.  
+>The clouds saw themselves and the trees around.  
+>It drew from a spring by the Arzan-stone.  
+>‘Touch it not!’ said Arzan. ‘It is mine alone.’  
+>Izd and her daughters coiled below.  
+>Said Izd to her daughters, ‘Yet shall we win!’”  
 
 The music beat and blared. The women of the village looked aslant at the men, and the men at the women. Whatever there might be of old, old woes, terrors, mistakes, jealousies, sins, conflicts, emulations, tyrannies seemed, for one moment, to come up through the past, burst into fire, and stream and fork.
 
->“The Arja-woman walked by herself.
->The pool made a gleaming among the trees.
->Said the Arja-woman, ‘Were that water mine,
->Surely it would give me strange wealth and bliss!’
->The Arja-woman looked around,
->The Arja-woman moved through the thick trees.
->The Arja-woman sat by the spring.
->The water bubbled and the water shone.
->‘Why is’t forbid?’ said that lately-made.
->Izd, below heard the word she said.
->Izd tore the roof so the woman might see.
->And under the rent she set the shape.
->‘I see down there a strange, fair thing.
->I wish it were come more near to me!’
->Up rose the shape and clasped her knee.
->‘Put your arms around and draw me close,
->And wish it to be and it will be.
->And we who are two will then be one,
->And we shall drink of the Arzan spring!’
->The Arja-woman put her arms around,
->And drew her close and wished it to be.
->The shape entered in; the two were one.
->The shape was evil, the shape was Izd.
->The Arja-woman grew more fair,
->But evil of heart, and a bringer of ill.
->Arjaya stooped to the Arzan spring.
->She drank the water, she washed therein.
->The tabu-water, the sacred spring!”
+>“The Arja-woman walked by herself.  
+>The pool made a gleaming among the trees.  
+>Said the Arja-woman, ‘Were that water mine,  
+>Surely it would give me strange wealth and bliss!’  
+>The Arja-woman looked around,  
+>The Arja-woman moved through the thick trees.  
+>The Arja-woman sat by the spring.  
+>The water bubbled and the water shone.  
+>‘Why is’t forbid?’ said that lately-made.  
+>Izd, below heard the word she said.  
+>Izd tore the roof so the woman might see.  
+>And under the rent she set the shape.  
+>‘I see down there a strange, fair thing.  
+>I wish it were come more near to me!’  
+>Up rose the shape and clasped her knee.  
+>‘Put your arms around and draw me close,  
+>And wish it to be and it will be.  
+>And we who are two will then be one,  
+>And we shall drink of the Arzan spring!’  
+>The Arja-woman put her arms around,  
+>And drew her close and wished it to be.  
+>The shape entered in; the two were one.  
+>The shape was evil, the shape was Izd.  
+>The Arja-woman grew more fair,  
+>But evil of heart, and a bringer of ill.  
+>Arjaya stooped to the Arzan spring.  
+>She drank the water, she washed therein.  
+>The tabu-water, the sacred spring!”  
 
 “*Ahhh!*” breathed the river-country people, men and women. It was so. They had known it must be so.
 
->“She took a pitcher and drew it full.
->On her head she bore it through the grove.
->Arja sat in the pleasant shade,
->And feathered his arrows bright of hue.
->rja sat by the vineyard edge,
->And sang to himself with a merry heart.
->He saw Arjaya and he felt a thirst.
->She came to Arja through the grove.
->‘Arja, hail! Will you have to drink?’
->She lowered the pitcher to his hand.
->Arzan thundered from the Arzan-stone.”
+>“She took a pitcher and drew it full.  
+>On her head she bore it through the grove.  
+>Arja sat in the pleasant shade,  
+>And feathered his arrows bright of hue.  
+>rja sat by the vineyard edge,  
+>And sang to himself with a merry heart.  
+>He saw Arjaya and he felt a thirst.  
+>She came to Arja through the grove.  
+>‘Arja, hail! Will you have to drink?’  
+>She lowered the pitcher to his hand.  
+>Arzan thundered from the Arzan-stone.”  
 
 “*Arzan! Give us protection!*” cried the rhythmically moving river-country people.
 
->“‘Whence drew you the water?’ asked the Arzan-man.
->She stood with anklets of silver fine.
->She stood with armlets of burning gold.
->She stood with a frontlet starry bright.
->She stood in a robe as thin as mist.
->And she had within her that witchcraft shape.
->She bent herself and she kissed his mouth.
->‘Good is the water. I drank. Drink thou!’
->Then Arja drank the tabu-water.
->Arzan darkened from the mountain-top.”
+>“‘Whence drew you the water?’ asked the Arzan-man.  
+>She stood with anklets of silver fine.  
+>She stood with armlets of burning gold.  
+>She stood with a frontlet starry bright.  
+>She stood in a robe as thin as mist.  
+>And she had within her that witchcraft shape.  
+>She bent herself and she kissed his mouth.  
+>‘Good is the water. I drank. Drink thou!’  
+>Then Arja drank the tabu-water.  
+>Arzan darkened from the mountain-top.”  
 
 Arja and Arjaya, and how and when the Golden Age went down.... The river-country people beheld the form of that of which they had long heard rumours, old speech-of-things, passing from people to people, changing shape but keeping substance as it passed! The river-country people both remembered and freshly imagined. 
 
 “Arzan! Arzan! The sin—the sin!” cried the river-plain. Men believed and women believed.
 
->The vineyards were blasted, the barley, the wheat.
->Day-night, week-month fell fire and ashes.
->The flocks and the herds went down to death.
->The antlered deer ran out of the earth.
->The fish drank the fire, the river sank.
->Arzan threw stones from the mountain-top.
->They fell like rain, they smote and slew
->The sons and daughters, the leaf-wrought folk,
->And the pebble-bondmen who drudged for love.
->Arja and Arjaya hid under a hill.
->Arzan ceased to thunder and pour down fire.
->But the land was a withered and briery place.
->Arja and Arjaya crept from the cave.
->And Arja had sorrow for that great sin.
->But Arjaya had Izd coiled round her heart.
->Arzan spoke from the Arzan-stone.
->‘For vineyard and wheat that grow of themselves,
->For golden bow and golden dart,
->For antlered deer that never fail,
->For ox and horse of a mighty breed,
->For shining fish that love the net,
->For boats adorned that are never lost,
->For houses large and heaps of goods,
->For sons of Arja who live in bliss,
->For work-folk strong who are glad of toil,
->For always-spring, for life all sweet,
->Arja, O Arja! tarry and see
->What shall fall to you from out my mount,
->Because you drank of the tabu-water,
->Because you held my power so light,
->Because Izd came between you and me!’
->Arzan thundered and Arja feared.
->Arjaya kneeled upon the ground.
->Arzan spoke from the Arzan-stone.
->‘Woman I made from the lesser bough,
->And gave for help and gave for play.
->Now woman shall have the greater pain!
->Hers is the sin of the tabu-water,
->She turned to Izd and made her her god,
->Half Izd she is, that evil snake,
->And Arja she harmed, the Arzan-man,
->And shut him from the blissful land!
->Now take from her her anklets bright,
->And take from her her armlets gold.
->And take from her her frontlet of stars,
->And mark her brow with the mark I show.
->In all that is done man shall be head,
->Man shall rule and woman serve,
->Man shall speak and woman be mute,
->Man shall own and woman own not.
->Folk shall she bear to fill the land.
->The sons shall rule, the daughters serve,
->The sons shall speak, the daughters be mute,
->The sons shall own, the daughters not.
->For the sons are Arzan, the daughters Izd!’”
+>The vineyards were blasted, the barley, the wheat.  
+>Day-night, week-month fell fire and ashes.  
+>The flocks and the herds went down to death.  
+>The antlered deer ran out of the earth.  
+>The fish drank the fire, the river sank.  
+>Arzan threw stones from the mountain-top.  
+>They fell like rain, they smote and slew  
+>The sons and daughters, the leaf-wrought folk,  
+>And the pebble-bondmen who drudged for love.  
+>Arja and Arjaya hid under a hill.  
+>Arzan ceased to thunder and pour down fire.  
+>But the land was a withered and briery place.  
+>Arja and Arjaya crept from the cave.  
+>And Arja had sorrow for that great sin.  
+>But Arjaya had Izd coiled round her heart.  
+>Arzan spoke from the Arzan-stone.  
+>‘For vineyard and wheat that grow of themselves,  
+>For golden bow and golden dart,  
+>For antlered deer that never fail,  
+>For ox and horse of a mighty breed,  
+>For shining fish that love the net,  
+>For boats adorned that are never lost,  
+>For houses large and heaps of goods,  
+>For sons of Arja who live in bliss,  
+>For work-folk strong who are glad of toil,  
+>For always-spring, for life all sweet,  
+>Arja, O Arja! tarry and see  
+>What shall fall to you from out my mount,  
+>Because you drank of the tabu-water,  
+>Because you held my power so light,  
+>Because Izd came between you and me!’  
+>Arzan thundered and Arja feared.  
+>Arjaya kneeled upon the ground.  
+>Arzan spoke from the Arzan-stone.  
+>‘Woman I made from the lesser bough,  
+>And gave for help and gave for play.  
+>Now woman shall have the greater pain!  
+>Hers is the sin of the tabu-water,  
+>She turned to Izd and made her her god,  
+>Half Izd she is, that evil snake,  
+>And Arja she harmed, the Arzan-man,  
+>And shut him from the blissful land!  
+>Now take from her her anklets bright,  
+>And take from her her armlets gold.  
+>And take from her her frontlet of stars,  
+>And mark her brow with the mark I show.  
+>In all that is done man shall be head,  
+>Man shall rule and woman serve,  
+>Man shall speak and woman be mute,  
+>Man shall own and woman own not.  
+>Folk shall she bear to fill the land.  
+>The sons shall rule, the daughters serve,  
+>The sons shall speak, the daughters be mute,  
+>The sons shall own, the daughters not.  
+>For the sons are Arzan, the daughters Izd!’”  
 
 Ramiki ceased his singing. His heart was freed, and he felt relief and escape, and a cheerful largeness of mood. The anger against Halmis was fallen. There even stole again over his being a fondness for that prophetess. The energy that had boiled within, thick and murky red, had been beautifully worked off by the late improvisation. Diffused and expanded through quite vast ranges, it was no longer an aching and concentrated desire to pay Halmis back and to make evident his own superiority. He became conscious of a tranquillity, of something like vision above vision.... Through this pushed suddenly up, for all the world like a lily in a pond, a willingness, a desire, that Halmis should keep the red band upon her forehead, that she should go, if she would, like a young man, walking alone! But he had made it too late for that!
 

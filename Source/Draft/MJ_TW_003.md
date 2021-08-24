@@ -20,29 +20,29 @@ Beneath a tree sat a lean man watching. In weather such as this, and with no cer
 
 “Ha!” chanted the hoeing women—
 
->“We are going to see
->That which we shall see!
->We are going to put
->Yuba in the earth!
->If she rots there, bad!
->If she grows there, good!
->Yuba! grow big!
->Yuba! make children!
->Then shall we eat
->Without going to seek.
->Then shall we have
->Yuba to our hand!
->Yuba and her children,
->Sweet to the tooth!
->Then none will hunger,
->Though the fish go away!
->Then none will hunger,
->Though the men kill no meat!
->Then those who laugh,
->Saying, ‘What do you do,
->Scratching there in the earth?’
->They will come to us begging.
->They will cry, ‘Give us Yuba!’”
+>“We are going to see  
+>That which we shall see!  
+>We are going to put  
+>Yuba in the earth!  
+>If she rots there, bad!  
+>If she grows there, good!  
+>Yuba! grow big!  
+>Yuba! make children!  
+>Then shall we eat  
+>Without going to seek.  
+>Then shall we have  
+>Yuba to our hand!  
+>Yuba and her children,  
+>Sweet to the tooth!  
+>Then none will hunger,  
+>Though the fish go away!  
+>Then none will hunger,  
+>Though the men kill no meat!  
+>Then those who laugh,  
+>Saying, ‘What do you do,  
+>Scratching there in the earth?’  
+>They will come to us begging.  
+>They will cry, ‘Give us Yuba!’”  
 
 The man with the gourds chose the attitude of contempt before an infant industry. He spoke in a guttural voice. “You are like fish and have no sense! I go into the forest and when I am hungry, I look around me, and I sing, ‘Yuba! Yuba!’ ‘Here I am!’ says Yuba plant. ‘Dig me up!’—But you say, ‘Let us tie Yuba to the houses!’” He shook the gourds. “You are more foolish than the fish. They do not go about to make the river angry. But you go about to make Yuba angry!”
 
@@ -58,15 +58,15 @@ The awe he meant to evoke was faintly apparent. The farmers laughed uneasily, wi
 
 “Oh, we’ll give you plenty!” answered the farmers. They laughed as they said it, but they laughed uneasily. However, they went on singing, using the first hoes.
 
->“Then none will hunger,
->Though the fish go away!
->Then none will hunger,
->Though the men kill no meat!
->Then those who laugh,
->Saying, ‘What do you do,
->Scratching there in the earth?’
->They will creep to us softly,
->They will cry, ‘Give us Yuba!’”
+>“Then none will hunger,  
+>Though the fish go away!  
+>Then none will hunger,  
+>Though the men kill no meat!  
+>Then those who laugh,  
+>Saying, ‘What do you do,  
+>Scratching there in the earth?’  
+>They will creep to us softly,  
+>They will cry, ‘Give us Yuba!’”  
 
 Far off, in the deep woods, the men of the long houses were hunting Big Trouble, hunting him far and wide. Big Trouble had chosen to make such a path to the river as brought him into close quarters with the houses. Moreover, on more occasions than one, he had strayed aside from the path; he had come brushing and trampling and ruining against the place itself, all in the dead of night, waking and terrifying! So now Big Trouble was to be killed. To that end, for many days, they had been digging a pit in the wood, deepening and widening the mouth of a gully near to old haunts of Big Trouble. When it was deep enough and sharply shelving enough, they set at the bottom pointed stakes and then they covered all with a net of vines, artfully made to look like the very floor of the forest; strong enough, too, not to give beneath the weight of any slight forest creature. But let Big Trouble try it—! For days, also, they had been talking and training, exercising their muscles, trying their spears and clubs, asking help of the Great Turtle who was mysteriously their especial friend—the Great Turtle at the mouth of the great river, who came from the water and laid her eggs upon the sand. Now they were all in the deep wood, driving Big Trouble, disturbing him with flung club and spear, getting him to go toward the pit. Big Trouble was so big, and covered with such a fell of shaggy, red-brown hair that a flung club or spear troubled him little, and on the whole he was good-natured, and since he did not eat flesh, would not hurt them in turn—not unless they mightily angered him. Then, indeed, he would hunt with a vengeance, filling the air with trumpetings, tearing down the forest, shaking the earth, seizing the unlucky with his trunk and trampling them into an awful pulp! To hunt Big Trouble was to hunt in peril and excitement and with a fearful joy—a hunting that needed beforehand rites and ceremonies, and when it was accomplished, rites and ceremonies.
 
@@ -78,8 +78,8 @@ A young man and woman left the screen of a wide-girthed tree. They darted into t
 
 The two who had toled Big Trouble into the pit marched in triumph back to the houses, at the head of the hunters. The two were big and strong, young, and according to the notions of their people, well-favoured. Back they and all the hunters came, shouting and chanting, through the leafy world with the red sun sinking behind them, and borne along, slung over a pole, the seven-feet-long curved, ivory tusks of Big Trouble. Out to meet them came the too old to hunt and the too young, came the man with the thorns and the gourds, came the women, all who had not hunted. Singing and shouting, the two tides met in the red sunset, beneath the black trees.
 
->“Big Trouble is dead!
->He will plague us no more!”
+>“Big Trouble is dead!  
+>He will plague us no more!”  
 
 The sun was going down—the hunters were tired, tired! They ate what was given them, fell upon the earth and went to sleep. But the next day the long houses made a feast of commemoration—Big Trouble being gone forever.
 
@@ -186,39 +186,39 @@ Gata rose upon her knees. She began to chant. Her voice was rich and full—stre
 
 “She is possessed!” cried the folk. “She is going to tell Truth!”
 
->“Wise is Haki and wise is Aneka, but Wisdom
->Drops in the wood for who picks it up!
->Where I found Wisdom I lifted it, and bore it by day and by night.
->Carrying it safe in the darkness, watching and saying naught.
->Now will it live in the light that stirred in the dark,—
->Now will I tell you Truth about woman and man and a child.”
+>“Wise is Haki and wise is Aneka, but Wisdom  
+>Drops in the wood for who picks it up!  
+>Where I found Wisdom I lifted it, and bore it by day and by night.  
+>Carrying it safe in the darkness, watching and saying naught.  
+>Now will it live in the light that stirred in the dark,—  
+>Now will I tell you Truth about woman and man and a child.  
 
 Bending, she took the child from the wolf-skin, held it high in her hands. The light leaped and caressed it. The great ring of women and men seemed to come into relation with it; they slanted toward it, it seemed to draw their bodies, to act as a magnet. Gata chanted on.
 
->“Shout and dance, folk of the Turtle! Cry, ‘Gata is Mother!’
->True and happy that is—but of this child two are mothers!”
+>“Shout and dance, folk of the Turtle! Cry, ‘Gata is Mother!’  
+>True and happy that is—but of this child two are mothers!”  
 
 Aneka rose beside her. “She has been given *lash-lash* to drink! She is singing foolishness! Beat the drums and dance!—Woman, woman, you had better go throw yourself into the river—”
 
 But Gata’s voice sprang still. And the people of the long houses stood like a listening wood. A murmur had arisen, but it passed like a sigh. All hung intent.
 
->“Now, rub the forehead and answer, you who sit by the council tree,
->You who say, nodding your heads, ‘Boats are men’s work,
->Children are women’s work!’
->Now, answer, for I will question you, folk of the Turtle!
->From the body of woman comes forth boy and girl—
->In my hands lies him who will be a man—
->How should a woman make both woman and man?
->Woman only?
->No wise one among you gives answer,
->No woman and no man,
->Haki nor Aneka!
->Is it not a strange thing, folk of the Turtle?
->Now, tell me again and give answer again,
->Have you seen how often a child is like to a man,
->One child to one man?
->Has a man naught to do with a child that is like him—
->A child that is like him—”
+>“Now, rub the forehead and answer, you who sit by the council tree,  
+>You who say, nodding your heads, ‘Boats are men’s work,  
+>Children are women’s work!’  
+>Now, answer, for I will question you, folk of the Turtle!  
+>From the body of woman comes forth boy and girl—  
+>In my hands lies him who will be a man—  
+>How should a woman make both woman and man?  
+>Woman only?  
+>No wise one among you gives answer,  
+>No woman and no man,  
+>Haki nor Aneka!  
+>Is it not a strange thing, folk of the Turtle?  
+>Now, tell me again and give answer again,  
+>Have you seen how often a child is like to a man,  
+>One child to one man?  
+>Has a man naught to do with a child that is like him—  
+>A child that is like him—”  
 
 The people cried out, “Wisdom is on her!” The links of the ring shifted. 
 
@@ -227,20 +227,21 @@ Amru stood before her. He spoke. “Yes, we have seen. Why is that, Gata? And wh
 Gata, holding the child aloft, rose to her feet. The flame-light wrapped her. It made of her hair a sunrise cloud, it made her flesh like flowers.
 
 >“Folk of the Great Turtle—the Turtle that watches the river
->Flow into the sea!
->Now will I tell you a Truth—a truth that will bind us together.—
->Mother is Gata—and mother is Amru!
->Mother alike are Gata and Amru!
->Amru and Gata came together.
->To Gata’s strength Amru gave his strength.
->To Amru’s strength Gata gave her strength.
->Then the moons rose like dancers out of the fen{58}—
->Many round moons—I counted them—many a dancer!
->Then came forth him who will dance strongly, who will build boats,
->Who will grow like Amru, whom I will name Amru,
->For he is Amru!...
->What woman have you seen make a child in a world of no men?
->I am mother, and Amru—Amru and Gata make children!”
->Like a flame she sank from her height, she lay among the wolf-skins, the babe against her knee.
+>Flow into the sea!  
+>Now will I tell you a Truth—a truth that will bind us together.—  
+>Mother is Gata—and mother is Amru!  
+>Mother alike are Gata and Amru!  
+>Amru and Gata came together.  
+>To Gata’s strength Amru gave his strength.  
+>To Amru’s strength Gata gave her strength.  
+>Then the moons rose like dancers out of the fen {58}—  
+>Many round moons—I counted them—many a dancer!  
+>Then came forth him who will dance strongly, who will build boats,  
+>Who will grow like Amru, whom I will name Amru,  
+>For he is Amru!...  
+>What woman have you seen make a child in a world of no men?  
+>I am mother, and Amru—Amru and Gata make children!”  
+
+Like a flame she sank from her height, she lay among the wolf-skins, the babe against her knee.  
 
 The people of the long houses broke into loud, excited speech. Generations had walked as unconscious observers; now things observed took on order and meaning, came alive. Haki began to chant, and on the wall of the middle house there leaped and danced his tall shadow. Amru sat on the earth floor beside Gata—he put out a finger and touched the babe’s hand.... But Aneka said, “Woman, woman, you had better go throw yourself into the river—”

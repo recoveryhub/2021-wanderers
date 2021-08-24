@@ -31,13 +31,14 @@ A concourse was held, an assembly of the folk of the plain. Not so many miles wi
 Ramiki and Halmis stood together upon the stone that was wide as the floor of a house. The day was advanced, the light gold-red; behind were three great trees, before and to either hand the scimitar-shaped crowd of the people, excited already by music and by passionate, persuasive speech. The drums beat, the cymbals clanged, then silence, then right posturing by prophet and prophetess, then words half spoken, half sung, sent from the lips with force, ringing and reaching!
 
 >“Folk of the river-plain!”
+
 chanted Ramiki.
 
->“People of Arzan, the high god, the great god,
->God of the gods!
->For you I cried to Arzan.
->‘O Arzan!
->The people increase as it were the river in spring time!’”
+> “People of Arzan, the high god, the great god,  
+> God of the gods!
+> For you I cried to Arzan.
+> ‘O Arzan!
+> he people increase as it were the river in spring time!’”
 
 Halmis the prophetess took the chant:—
 

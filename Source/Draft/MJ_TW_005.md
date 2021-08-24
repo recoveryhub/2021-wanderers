@@ -1,27 +1,28 @@
-CHAPTER V
+# CHAPTER V
 
-WHAT’S IN A NAME?
+## WHAT’S IN A NAME?
+
 Vana lay awake at night pondering how to get riches for her children. Between the middle of the night and morning, not being able to sleep, she rose and stood in the doorway of her house of unburned brick. Mardurbo, the children’s father, had riches, but when he died, in a world where descent was counted from mother-side, his riches would go to his brother Kadoumin and other kindred. They would not go to his children because children did not take name nor inherit from fathers, but from mothers. That was order-of-nature, and accepted like the seasons, or sun at day and stars at night. When she, Vana, died, her possessions would go to the five children. Once they would have lapsed to her kindred in entirety—the five children, her sisters and brothers, the children of her sisters, and so on. But now old usage would give what she left chiefly to her nearest kin, and they were the children of her body. Her children would have her riches, such as they were, because over the earth, in her tribe and in all the tribes she had ever heard of, descent was reckoned from women. By the same token they would not have Mardurbo’s wealth.
 
-It was all right as long as women had in the world the most wealth!—If she had much riches and Mardurbo little, she would not be standing here wrinkling her brow and not even seeing the round moon behind the juniper trees and the well and the cluster of sheep astray. It was{87} right enough where there was equal wealth. But Mardurbo was much richer than Vana and growing richer all the time. All men, it seemed to Vana, were growing richer than women. Her lips parted. “They say that once-upon-a-time inside the house was richer than outside....”
+It was all right as long as women had in the world the most wealth!—If she had much riches and Mardurbo little, she would not be standing here wrinkling her brow and not even seeing the round moon behind the juniper trees and the well and the cluster of sheep astray. It was right enough where there was equal wealth. But Mardurbo was much richer than Vana and growing richer all the time. All men, it seemed to Vana, were growing richer than women. Her lips parted. “They say that once-upon-a-time inside the house was richer than outside....”
 
 She stepped without her door upon the crooked, sun-baked street of the town that spread around. Many small houses of unburned brick, lanes and paths, knots of trees, rude, surrounding wall of stake and clay, the place lay still in the bright moonlight. She looked at her own house where she had left her children sleeping, and near them, sleeping too, her three bondwomen. Her house was not larger than another, but she thought with satisfaction of the goods that it contained. She had much household gear and garments and ornaments. In the moonlight she looked at the bracelets upon her arms. They were of silver, and her anklets were of silver. She was a most skilful weaver, and upon his next trading journey Mardurbo would take with him certain webs and bring to her in return earrings and frontlet of gold. She knew, better than any in the town, how to make rich patterns in her weaving, and she had taught her bondwomen. With her work she had bought those women from a trading band coming from the south, and now they worked for her and she sold the cloth they made and the finer stuff that she wove herself. She was richer than most women and the knowledge made her proud. And still Mardurbo was the richest. And when he died all that he had would go to his kindred, and his children would have naught of it.
 
-The moon might have said to her: “It will be long before you die. You are young yet—you and Mardurbo.” That was true, but often persons died before they were old.{88} Mardurbo went afar, trading in towns afar. Robber bands might attack his company—a rival trader might creep in and slay him—he might come to a tribe that believed in seizing goods and giving death in return—he might eat of poison, grow sick and die—as he crossed desert places a lion might spring! He would die and flock and herd and drove, sheep and ass, ox and horse, and all his bondmen, bronze and iron and silver, weapons and well-made garments and ornaments—all, all go to his kindred! She felt bitter toward that kindred, and bitter toward Mardurbo.
+The moon might have said to her: “It will be long before you die. You are young yet—you and Mardurbo.” That was true, but often persons died before they were old. Mardurbo went afar, trading in towns afar. Robber bands might attack his company—a rival trader might creep in and slay him—he might come to a tribe that believed in seizing goods and giving death in return—he might eat of poison, grow sick and die—as he crossed desert places a lion might spring! He would die and flock and herd and drove, sheep and ass, ox and horse, and all his bondmen, bronze and iron and silver, weapons and well-made garments and ornaments—all, all go to his kindred! She felt bitter toward that kindred, and bitter toward Mardurbo.
 
 Especially she hated that Kadoumin should have Mardurbo’s wealth.
 
 She stared at the moon above the juniper trees. It was like a silver shield. She wished that she had such a shield. She wished that she could weave silver and gold, and purchase many more bondwomen than three or seven or ten, and with them weave further in gold and silver and purchase more to weave more. One field she possessed, and she wished that she might make that one two and then set the two to breeding fields. She wished for sheep and oxen and wagons, asses and swift horses—wished to trade afar like Mardurbo and make quick increase. She had in her an able trader—a trader like Mardurbo. Vana drew a sharp breath. Win increase for the name of riches and for the children—for the children—for the children! So they would be great and proud in the tribe. “O my children!” she said; “Kadoumin who is already rich will reap, though he has not sowed, while the children of Mardurbo walk without the field. O my children! the field that I sow for you is not so great—no, not by many measures!”
 
-She stood in the doorway until the moon rose high, then{89} within the house threw herself down upon her bed of dressed skins and strove to sleep. But it was become an obsession—that thought of riches. She could not sleep. The bondwomen breathed deep in the inner room. A ray of moonlight entering struck upon the looms where they and Vana worked. Mardurbo was away—Mardurbo was journeying toward a town that would trade metals for horses such as Mardurbo bred, and for weapons that the men of his tribe made and webs that the women wove. Vana saw Mardurbo journeying. Ordinarily her feeling for him was a curious one, half fond, half estranged. She divined that he had for her a like feeling. At times they were as close as hand and hand, allied as two strings of Saba’s harp. The very next day might fall a misliking, dark and cold as iron in winter. Coming thus, sometimes it worked with one emotion, sometimes with another.
+She stood in the doorway until the moon rose high, then within the house threw herself down upon her bed of dressed skins and strove to sleep. But it was become an obsession—that thought of riches. She could not sleep. The bondwomen breathed deep in the inner room. A ray of moonlight entering struck upon the looms where they and Vana worked. Mardurbo was away—Mardurbo was journeying toward a town that would trade metals for horses such as Mardurbo bred, and for weapons that the men of his tribe made and webs that the women wove. Vana saw Mardurbo journeying. Ordinarily her feeling for him was a curious one, half fond, half estranged. She divined that he had for her a like feeling. At times they were as close as hand and hand, allied as two strings of Saba’s harp. The very next day might fall a misliking, dark and cold as iron in winter. Coming thus, sometimes it worked with one emotion, sometimes with another.
 
 The moon paled, the pink dawn came, the trees rustled in the morning breeze. The town awoke. Without the wall shepherds and herdsmen moved with their charges far upon the plain. The light strengthened, cocks crowed, dogs barked, there arose spirals of smoke, voices conversed and called and sang. The morning meal was toward. Women and men renewed their work. Tones of children and pattering feet of children made a song of spring.
 
-Without the wall spread fields of wheat and barley, of millet and of flax. Women and men went to the fields. Outside, too, slid a slow, murmuring brook. Women washed here, and on the banks in the sun women bleached webs that women wove. And near by, in a shady place, they had vats where they dyed their webs. Without the wall was the clayey place where bricks were made and dried and here also was a rude rope-walk. Men and women{90} made brick, and cords and rope, though more men than women. But within the wall women moved in the greatest number and here the industries were chiefly theirs. And again, where men worked, without wall or within wall, they were, with some exceptions, the slower, the gentler, the older, the less strong of body among men. These, and bondmen, of whom there were many. Gone from the town were trading bands, and a war-band raiding the tents of trespassers, and a hunting band. At home, however, stayed Dardin the magic-man and his sons, and Saba the harp-player, and Kadoumin the wily, and others. But all the women stayed in the town or in the fields just without—the strong and the young women with the old and the weak, the skilled with the dull, the adventurous with the sluggish, those without children with those who had children, branching natures with sheathed natures, travelling minds with rooted minds. Kamilil the magic-woman said that once women wandered abroad like men. Not just like men, for there were always the children, but yet wandered and hunted and fought. But few really believed Kamilil. As things were, so must they always have been!
+Without the wall spread fields of wheat and barley, of millet and of flax. Women and men went to the fields. Outside, too, slid a slow, murmuring brook. Women washed here, and on the banks in the sun women bleached webs that women wove. And near by, in a shady place, they had vats where they dyed their webs. Without the wall was the clayey place where bricks were made and dried and here also was a rude rope-walk. Men and women made brick, and cords and rope, though more men than women. But within the wall women moved in the greatest number and here the industries were chiefly theirs. And again, where men worked, without wall or within wall, they were, with some exceptions, the slower, the gentler, the older, the less strong of body among men. These, and bondmen, of whom there were many. Gone from the town were trading bands, and a war-band raiding the tents of trespassers, and a hunting band. At home, however, stayed Dardin the magic-man and his sons, and Saba the harp-player, and Kadoumin the wily, and others. But all the women stayed in the town or in the fields just without—the strong and the young women with the old and the weak, the skilled with the dull, the adventurous with the sluggish, those without children with those who had children, branching natures with sheathed natures, travelling minds with rooted minds. Kamilil the magic-woman said that once women wandered abroad like men. Not just like men, for there were always the children, but yet wandered and hunted and fought. But few really believed Kamilil. As things were, so must they always have been!
 
 Vana went to see Bardanin her brother. She took with her her eldest son, a boy straight as a reed, strong as a master bow, and handsome as a deer of the hills. As they went through the lanes of the town all remarked the two. Vana herself had “looks.” Moreover, none failed of knowing how skilful she was and richer than most. Every one knew every one else, and what they did and how they did it.
 
-Bardanin was a hunter. He lived in a house by the wall, and he had just returned with his son Targad from hunting{91} in the hills that bordered the plain. They had brought two antelope and had cast them down upon the ground beneath a tree. Vana found Bardanin and Targad seated beside the house door, between them a bowl of lamb’s flesh and a platter of barley cakes. They welcomed her and she sat down near them. While they ate she watched the women of the household lift and shoulder the game beneath the tree and carry it to the open-air place of all work behind the house.
+Bardanin was a hunter. He lived in a house by the wall, and he had just returned with his son Targad from hunting in the hills that bordered the plain. They had brought two antelope and had cast them down upon the ground beneath a tree. Vana found Bardanin and Targad seated beside the house door, between them a bowl of lamb’s flesh and a platter of barley cakes. They welcomed her and she sat down near them. While they ate she watched the women of the household lift and shoulder the game beneath the tree and carry it to the open-air place of all work behind the house.
 
 Said Bardanin: “Hunting is not what it used to be.—Mardurbo has not returned?”
 
@@ -35,7 +36,7 @@ Bardanin broke a barley cake. “The five will have your wealth—and it is know
 
 “Bardanin, I know that! But I ask are not his children nearer to Mardurbo than is Kadoumin?”
 
-Bardanin stared at his sister. He was a great hunter, but a slow mind. Targad laughed. Bardanin drank from a pitcher of milk, then set the vessel down thoughtfully. “Nearer in his liking,” said Bardanin. “Just as I like Targad and his brothers and sisters more than I like my own brothers and sisters. But if the lion that we met had slain{92} me my goods would belong to my kindred. Targad and the others take their mother’s goods.”
+Bardanin stared at his sister. He was a great hunter, but a slow mind. Targad laughed. Bardanin drank from a pitcher of milk, then set the vessel down thoughtfully. “Nearer in his liking,” said Bardanin. “Just as I like Targad and his brothers and sisters more than I like my own brothers and sisters. But if the lion that we met had slain me my goods would belong to my kindred. Targad and the others take their mother’s goods.”
 
 “You are unsorrowing, Bardanin, because you have so little!”
 
@@ -53,7 +54,7 @@ Said Lonami: “Have you finished the web with the purple border?”
 
 “Any chief will give you oxen for it.—I make a patterned web myself, but it is not like yours.”
 
-“Lonami, men journey and make war. They take all manner of cattle and trade for what they do not take. The sheep and cattle, the asses and horses, breed fast, and they have great flocks and herds. Then they trade with these, and always it grows! Men say that theirs are the metals that come out of the earth. How big the earth is I do not know, nor when she gave them the copper and silver and iron! They go to war and bring back rich and strange things and many bond-folk. A woman must weave much cloth or dye many webs, or make many pots or baskets, or plant much grain before she can buy a bondman on a{93} bondwoman. Men grow richer than women, and that to me is like a cloud in the sky when the brook is already flooding!”
+“Lonami, men journey and make war. They take all manner of cattle and trade for what they do not take. The sheep and cattle, the asses and horses, breed fast, and they have great flocks and herds. Then they trade with these, and always it grows! Men say that theirs are the metals that come out of the earth. How big the earth is I do not know, nor when she gave them the copper and silver and iron! They go to war and bring back rich and strange things and many bond-folk. A woman must weave much cloth or dye many webs, or make many pots or baskets, or plant much grain before she can buy a bondman on a bondwoman. Men grow richer than women, and that to me is like a cloud in the sky when the brook is already flooding!”
 
 “It is true enough!” said Lonami.
 
@@ -73,7 +74,7 @@ That night she watched the moon again. The next morning she went to Kadoumin’s
 
 “A bounteous to Kadoumin!” answered Vana, her eyes travelling down the swathes.
 
-Kadoumin dismounted from his ass and sat in the shade{94} of a tree and Vana sat beside him. “I had a dream of Mardurbo,” said Kadoumin. “He was by the sea and he had a jar which he dipped into the wave. When it was filled he emptied it upon a tent cloth spread beside him, and the water was not water, but earrings of gold and pieces of silver as large as your fist. It seems to me a lucky dream!”
+Kadoumin dismounted from his ass and sat in the shade of a tree and Vana sat beside him. “I had a dream of Mardurbo,” said Kadoumin. “He was by the sea and he had a jar which he dipped into the wave. When it was filled he emptied it upon a tent cloth spread beside him, and the water was not water, but earrings of gold and pieces of silver as large as your fist. It seems to me a lucky dream!”
 
 “A lucky dream for you, Kadoumin, who when Mardurbo dies will get the gold and silver, the tent cloth and the jar!”
 
@@ -87,7 +88,7 @@ Kadoumin, who ailed inwardly and showed an outward leanness, made a sign for hea
 
 “A free gift or in trade, Vana, mother of the five fairest children?”
 
-“Kadoumin, the stars and next year are very well, but the wise man considers the field before him.—For the{95} three webs—seeing that Mardurbo is the younger man and should outlive—will you, witnesses sitting by, give over to Mardurbo’s children Mardurbo’s goods when he dies?”
+“Kadoumin, the stars and next year are very well, but the wise man considers the field before him.—For the three webs—seeing that Mardurbo is the younger man and should outlive—will you, witnesses sitting by, give over to Mardurbo’s children Mardurbo’s goods when he dies?”
 
 Kadoumin took up a stalk of barley and drew it between his lips. “Mardurbo is a rich man. Three webs, even though their like was never seen, weight light against sheep and oxen and Mardurbo’s swift horses.”
 
@@ -105,7 +106,7 @@ Kadoumin drew the barley stalk again between his lips. “Why do you consider th
 
 Vana in her turn looked at him aslant. “It does not show—that spell. The webs are fair and the field joins yours. Better the lowing of one heifer before the door than the seeing of herds in the clouds of the sky!”
 
-“I will think,” said Kadoumin, “of what you say until Mardurbo’s return. If there were more advantage yet....” He seemed to fall to dreaming. “Mardurbo, I know not why, is fonder of children than of brothers. I have no children and so I know not why.... Mardurbo might add to the webs and the field.... If all the men in town and plain—and all the women—would agree, all men might leave their goods to their own children.{96}”
+“I will think,” said Kadoumin, “of what you say until Mardurbo’s return. If there were more advantage yet....” He seemed to fall to dreaming. “Mardurbo, I know not why, is fonder of children than of brothers. I have no children and so I know not why.... Mardurbo might add to the webs and the field.... If all the men in town and plain—and all the women—would agree, all men might leave their goods to their own children.”
 
 Vana struck her hands together. “Kadoumin the wise! I have thought that, lying on my bed at night! But I thought that it was my thought only, and it seemed to me too strange to tell!”
 
@@ -125,7 +126,7 @@ Vana gave her present of two hens into the daughters’ hands and sat down at Ka
 
 Kamilil was spinning wool. “Do you come for magic, Vana, rich in many ways?”
 
-“Mother Kamilil,” said Vana, “mothers want more{97} magic than most!—I lie awake at night to think how to make my children rich and great!”
+“Mother Kamilil,” said Vana, “mothers want more magic than most!—I lie awake at night to think how to make my children rich and great!”
 
 “They must do some of that themselves,” said Kamilil, and put red wool upon her distaff.
 
@@ -143,7 +144,7 @@ Kamilil leaned back from her spinning. “That is a greater thing than I thought
 
 “Yes,” said Vana. “How can it hurt children to have fathers as well as mothers leave to them?”
 
-Kamilil fingered the red strands. “Change spreads.... When a river is in its bounds you know what you have to do with. You say, ‘It waters this field—it flows by these trees.’ Flood comes—that is, change—and you say, ‘Where are its banks?’ Throw a stone into a great pool. A little ring—a wider ring—a wider yet! As great as is the pool, so far the rings widen. That is change.... There is something in this that you talk about that I do not see clearly. To-night I will gather plants, and to-morrow I will{98} brew from them, and in the smoke I shall see—I shall see—I shall see....”
+Kamilil fingered the red strands. “Change spreads.... When a river is in its bounds you know what you have to do with. You say, ‘It waters this field—it flows by these trees.’ Flood comes—that is, change—and you say, ‘Where are its banks?’ Throw a stone into a great pool. A little ring—a wider ring—a wider yet! As great as is the pool, so far the rings widen. That is change.... There is something in this that you talk about that I do not see clearly. To-night I will gather plants, and to-morrow I will brew from them, and in the smoke I shall see—I shall see—I shall see....”
 
 Her distaff twirled faster. “Come to me three days hence,” she said, and called to her daughters to bring Vana honey cakes and wine.
 
@@ -157,7 +158,7 @@ Before her broke a sunny space and here, in the midst, was the hut, round and lo
 
 Vana stood still. “Hail, Uduma!”
 
-Uduma turned. “Hail, woman! Come within the sunny ring.{99}”
+Uduma turned. “Hail, woman! Come within the sunny ring.”
 
 Vana came, and laid before the seer the wheat wrapped in fine cloth. “Gift from one who would gain knowledge!”
 
@@ -177,7 +178,7 @@ Vana nodded. “She is all the lamb’s good.”
 
 Vana sat with an arrested look in the sunny round. At last she spoke. “Fathers as well as mothers have praise from children.... I do not know—I do not remember—if it was ever otherwise.”
 
-“Praise, but not so great praise.{100}”
+“Praise, but not so great praise.”
 
 “When the people from the hills came against us, four barley harvests since, and broke down the wall and poured through the ways and struck against the houses, Mardurbo fought mightily in our doorway. I also fought, but Mardurbo fought with great blows. Did not the children praise him then?”
 
@@ -189,7 +190,7 @@ Vana sat still. The light came down clear and dry. It might be seen why Uduma li
 
 Vana sat cross-limbed, her eyes upon the earth. A great bird passed overhead; she knew it by its shadow on the ground. “This it was that crossed Kadoumin’s mind and the mind of Kamilil, but neither could gain its shape!” She sat still, in the dry light, but she was not wholly accustomed to that light—by no means wholly accustomed to that light. Not even Uduma was that.
 
-“What else?” asked Vana at last, and she spoke in a dulled and weary voice.{101}
+“What else?” asked Vana at last, and she spoke in a dulled and weary voice.
 
 “If the ram can do all that,” said Uduma, “if the lamb at last turns with him, then the ewe must seek her gain elsewhere.”
 
@@ -199,7 +200,7 @@ Vana beat her hands together. “There is no gain elsewhere!”
 
 Vana took ceremonious leave of Uduma. She went out of the still and sunny round into the wood where the day murmured and was dim under roof, above roof, and down the stream where the clay thickened and coloured the water. As she went her mind was torn within her, and she saw, as it were arising in the wood before her, Mardurbo making wealth, and her own loom and the web within and her field and three bondwomen, and afterwards the five children, and how they grew, and the little she would have for each. Vana’s children, and they should go in purple through the town.... This talk of ewes and women—and who ever saw a lamb turn from its dam or children turn from women?
 
-Mardurbo—Mardurbo! Vana walked slowly, sat down at last upon the stream bank. The five bending toward Mardurbo—Mardurbo demanding from the five since he fought and was strong, and besides was going to make them rich—Mardurbo’s favour, Mardurbo’s disfavour—in the children’s eyes Mardurbo the waxing moon and she the waning—Vana drew sharp breath, struck at the air with her staff. “Fly, bad dream!” she said. But it would not avoid—it seemed to come toward her, between the trees, the strongest in fight and the richest—! Vana{102} uttered a strangling cry. “Mardurbo! I know not if I wish life for you!”
+Mardurbo—Mardurbo! Vana walked slowly, sat down at last upon the stream bank. The five bending toward Mardurbo—Mardurbo demanding from the five since he fought and was strong, and besides was going to make them rich—Mardurbo’s favour, Mardurbo’s disfavour—in the children’s eyes Mardurbo the waxing moon and she the waning—Vana drew sharp breath, struck at the air with her staff. “Fly, bad dream!” she said. But it would not avoid—it seemed to come toward her, between the trees, the strongest in fight and the richest—! Vana uttered a strangling cry. “Mardurbo! I know not if I wish life for you!”
 
 She stared at the dark trees and the dark places between them. Slowly there rose in her mind Mardurbo as she had known him first—Mardurbo and she as striplings amid the wheat and the vines—Mardurbo before they came into the same house, and afterwards for a time, before the eldest boy was born, and the two years of her suckling him—Mardurbo before the days of the bondwoman whom he bought and to whom he gave a house.... Mardurbo and Vana, striplings among the wheat and the vines. Slow tears rose in Vana’s eyes. “Mardurbo! Mardurbo!” she breathed.
 
@@ -209,7 +210,7 @@ The men who told her exaggerated the wealth Mardurbo had brought. According to t
 
 Inside the wall Vana still heard of that much wealth the trader had brought. It seemed that the people by the sea had been hungry for horses. The town was excited over Mardurbo’s return.
 
-Approaching her own house, she saw in the distance that goods were, indeed, heaped beside it and before it, and{103} Mardurbo in the midst of his men directing the goods’ bestowal, and children and bondwomen and a number of town-folk watching. Sound came to her in a gush, and a perception as of bees at work. Her hand closed hard upon her staff. The honey—all the honey—to go to Kadoumin and the other kindred!
+Approaching her own house, she saw in the distance that goods were, indeed, heaped beside it and before it, and Mardurbo in the midst of his men directing the goods’ bestowal, and children and bondwomen and a number of town-folk watching. Sound came to her in a gush, and a perception as of bees at work. Her hand closed hard upon her staff. The honey—all the honey—to go to Kadoumin and the other kindred!
 
 The children saw her and ran to her, the bondwomen saw her and snatched up distaff or water-jar. Mardurbo turned from sacks of salt and goods in bales that the people by the sea traded with. He came through the press to Vana as she came through it to him.
 
@@ -225,9 +226,9 @@ Their hold each of the other loosened. Manners of the tribe demanded restraint i
 
 “Kadoumin!... I have brought a gift for each of the children.”
 
-A bale threatened falling. Mardurbo lifted it on strong shoulders, bore it to the room for storing built beside the main room. Bondmen followed, carrying much goods. The children chattered like monkeys, the watching town-folk, men and women, made admiration or offered help; over the place played red sunshine of the shutting day. Largely the gathered crowd were Mardurbo’s kindred. Vana stood{104} still. In times before to-day assuredly she would have laid hand to matters herself, lifted and borne and called her bondwomen to the task. But now she saw Vana and her children one kindred, and Mardurbo with Kadoumin and the others one kindred, and between strangeness. She would not help put away Kadoumin’s goods—but lightly she would have helped to put away goods of the five children! Desire of riches that had trembled toward departure, came back and held her with full force. Standing in the bronze light, she knew covetousness—she knew hatred of Kadoumin and the other kindred—knew for that moment hatred of Mardurbo. Stronger, stronger!—richer, richer!—and how could she take the children with her, going trading to make them rich?... Those who spoke to her she answered shortly, standing in a brown study, then went into the house and, calling her women, fell to preparing supper.
+A bale threatened falling. Mardurbo lifted it on strong shoulders, bore it to the room for storing built beside the main room. Bondmen followed, carrying much goods. The children chattered like monkeys, the watching town-folk, men and women, made admiration or offered help; over the place played red sunshine of the shutting day. Largely the gathered crowd were Mardurbo’s kindred. Vana stood still. In times before to-day assuredly she would have laid hand to matters herself, lifted and borne and called her bondwomen to the task. But now she saw Vana and her children one kindred, and Mardurbo with Kadoumin and the others one kindred, and between strangeness. She would not help put away Kadoumin’s goods—but lightly she would have helped to put away goods of the five children! Desire of riches that had trembled toward departure, came back and held her with full force. Standing in the bronze light, she knew covetousness—she knew hatred of Kadoumin and the other kindred—knew for that moment hatred of Mardurbo. Stronger, stronger!—richer, richer!—and how could she take the children with her, going trading to make them rich?... Those who spoke to her she answered shortly, standing in a brown study, then went into the house and, calling her women, fell to preparing supper.
 
-The meal was over. Mardurbo’s followers gone away, the precious, the weighty things that he had brought home bestowed against further trading. Reclined upon an ox-skin spread without the door, Mardurbo watched the five children at play with other children in the pinky, twilight street. They ran up and down, they joined hands and swung in circles, they played at hunting and at war, stalking and capturing one another. Then they played the tribe by the sea and the tribe in the hills and Mardurbo with his horses trading from the plain to the hills and the sea. The children of Vana and Mardurbo claimed to play Mardurbo. It seemed that their claim was good. But other children set up shrill objection, put in an opposing claim. Mardurbo was their kinsman. Contention arose. “Mardurbo is our father!”—“Mardurbo is our kin!”—“He lives{105} with us!”—“Ho! If he and your mother part he will come back to grandmother’s house!”—“He brought us presents!”—“Ho! your presents are only little bits! All the big things belong to kin! We’ve got horses and bondmen and salt and copper and silver!”—“Anyhow, we’re Mardurbo!”—“No, you aren’t! We’re Mardurbo!”
+The meal was over. Mardurbo’s followers gone away, the precious, the weighty things that he had brought home bestowed against further trading. Reclined upon an ox-skin spread without the door, Mardurbo watched the five children at play with other children in the pinky, twilight street. They ran up and down, they joined hands and swung in circles, they played at hunting and at war, stalking and capturing one another. Then they played the tribe by the sea and the tribe in the hills and Mardurbo with his horses trading from the plain to the hills and the sea. The children of Vana and Mardurbo claimed to play Mardurbo. It seemed that their claim was good. But other children set up shrill objection, put in an opposing claim. Mardurbo was their kinsman. Contention arose. “Mardurbo is our father!”—“Mardurbo is our kin!”—“He lives with us!”—“Ho! If he and your mother part he will come back to grandmother’s house!”—“He brought us presents!”—“Ho! your presents are only little bits! All the big things belong to kin! We’ve got horses and bondmen and salt and copper and silver!”—“Anyhow, we’re Mardurbo!”—“No, you aren’t! We’re Mardurbo!”
 
 Mardurbo turned on his ox-skin. “What does a man toil and journey for? Kadoumin, and the children of Istara?”
 
@@ -245,7 +246,7 @@ Vana rose from that couch of skins. “Whether one goes or stays there are many 
 
 Mardurbo followed her. “I want to talk. In there the others will waken.”
 
-Vana let fall behind them the mat that made the door. She sat down upon the threshold step, and Mardurbo{106} beside her. The breathing was now withdrawn. In front of them lay the hot, still night with nothing moving save a dog by a distant wall.
+Vana let fall behind them the mat that made the door. She sat down upon the threshold step, and Mardurbo beside her. The breathing was now withdrawn. In front of them lay the hot, still night with nothing moving save a dog by a distant wall.
 
 “I should have drunk sweetness upon this journey,” said Mardurbo, “but instead I have drunk bitterness.—Why should not my riches go to my children?”
 
@@ -263,7 +264,7 @@ Vana let fall behind them the mat that made the door. She sat down upon the thre
 
 “What is it, Mardurbo? What is it?”
 
-Mardurbo looked at the sky and around at the silent town. He made upon the earth at his feet one of Dardin’s signs. He was a bold man, but change is a difficult thing in the world, and what is now has all the honour and observance! “Count kindred another way,” said Mardurbo, and he dropped his voice yet lower and looked somewhat fearfully at his companion. “Have a great council of the tribe and determine it! Let children come into father’s kindred.{107}”
+Mardurbo looked at the sky and around at the silent town. He made upon the earth at his feet one of Dardin’s signs. He was a bold man, but change is a difficult thing in the world, and what is now has all the honour and observance! “Count kindred another way,” said Mardurbo, and he dropped his voice yet lower and looked somewhat fearfully at his companion. “Have a great council of the tribe and determine it! Let children come into father’s kindred.”
 
 “How can that work?” asked Vana. “How can they be reckoned of fathers’ kin when already they are of mothers’ kin, and the two kins are separate?”
 
@@ -281,13 +282,13 @@ Vana’s breath came quick and thin. “Do you think the folk will agree to that
 
 “Men grow richer than women, for the outside is bigger than the inside of the house. You wish the five to have my riches when I die. Lonami wishes Eninumo to have the goods of Harran. Innina wishes her three to have the flocks of Akarnad. It will be so with other women.”
 
-“Children to go from mother-kin into father-kin—”
+“*Children to go from mother-kin into father-kin—*”
 
 “Still they would be your children—as now they are my children—and yet I have no honour from them, and when my kindred gather to a feast they come not with them!”
 
-“I give them no longer my name, nor the name of my mother!”
+“*I give them no longer my name, nor the name of my mother!*”
 
-Mardurbo was deep in love with the plan that had fallen like the shooting star. He struck the threshold stone. “What harm to women if they take name from fathers instead of from mothers?{108}”
+Mardurbo was deep in love with the plan that had fallen like the shooting star. He struck the threshold stone. “What harm to women if they take name from fathers instead of from mothers?”
 
 “If they take name from men!”
 
@@ -309,7 +310,7 @@ Mardurbo came to her where she stood. “Every one will be here to trade or to l
 
 “Say nothing until I return,” said Vana. “I am going to see Uduma the seer.”
 
-She left the town wall behind her, and followed the winding of the brook, walking with a silver tinkling of her anklets. Presently she found again the clear, sunny space, and Uduma carding wool.{109}
+She left the town wall behind her, and followed the winding of the brook, walking with a silver tinkling of her anklets. Presently she found again the clear, sunny space, and Uduma carding wool.
 
 “Hail, Uduma!”
 
@@ -329,7 +330,7 @@ Uduma still looked at the bright sky. Time went by. The place was golden, warm a
 
 “Pride-for-children and greed-for-children are long names for short things.”
 
-Vana with her long, embrowned fingers moved her silver anklets. “O Uduma, will not Mardurbo remember that, for the children, I let the council be called, and said in my turn, ‘Change the old ways’?{110}”
+Vana with her long, embrowned fingers moved her silver anklets. “O Uduma, will not Mardurbo remember that, for the children, I let the council be called, and said in my turn, ‘Change the old ways’?”
 
 “Mardurbo—Mardurbo! Look in your own heart for Mardurbo and his thoughts!”
 
@@ -339,11 +340,11 @@ Vana with her long, embrowned fingers moved her silver anklets. “O Uduma, will
 
 Vana left the golden-lighted circle and went through the dark wood, down the falling stream. As on yesterday she had thought of Mardurbo, so to-day she thought of Mardurbo. But first she said, and said it thrice, “I do not believe that I shall be less in the world by this one and that one saying ‘Mardurbo’s children!’—Who is it that knows not that they are my children?—It will be nothing but a saying!” For since yesterday she was the more set to gain for the five those riches from the seashore and the country between the hills.
 
-Mardurbo—Mardurbo! To-day she felt affection for Mardurbo. She was glad that no lion had felled him with a stroke, and no serpent crept into his tent, and no man-foe sent arrow against him. Mardurbo loved the children as she did, and he would make for them wealth and more wealth. It was not much of a price to pay—to say “son of Mardurbo—daughter of Mardurbo!” Especially when it would be naught but a saying. The tribe would continue to know that Vana had borne them in agony, had suckled them and wrought for them, day and night. Mardurbo ... Mardurbo! To-morrow she might again feel{111} anger against him, desire to see him gone, and care not for his dangers. To-day, all was as oil and wine. The will of Vana was set to obtain that turning of wealth from Kadoumin and from Istara and her children to the five in the house of the loom. To feel for any cause violence and bitterness against Mardurbo would make difficulties more difficult, and therefore she felt it not.
+Mardurbo—Mardurbo! To-day she felt affection for Mardurbo. She was glad that no lion had felled him with a stroke, and no serpent crept into his tent, and no man-foe sent arrow against him. Mardurbo loved the children as she did, and he would make for them wealth and more wealth. It was not much of a price to pay—to say “son of Mardurbo—daughter of Mardurbo!” Especially when it would be naught but a saying. The tribe would continue to know that Vana had borne them in agony, had suckled them and wrought for them, day and night. Mardurbo ... Mardurbo! To-morrow she might again feel anger against him, desire to see him gone, and care not for his dangers. To-day, all was as oil and wine. The will of Vana was set to obtain that turning of wealth from Kadoumin and from Istara and her children to the five in the house of the loom. To feel for any cause violence and bitterness against Mardurbo would make difficulties more difficult, and therefore she felt it not.
 
 The sun was in the west when she reëntered the town, and the greater part of the town hovered yet about Mardurbo’s market. The town fed desire with strange, precious goods, and gave to Mardurbo in exchange home-made matters. Home-made matters seeming nothing like so precious, the town’s giving outweighed its taking. Mardurbo would have much of fine and precious with which to feed the desire of the people by the sea and the people between the rivers, who in turn would outweigh that much with their homely, home-furnished matters. So Mardurbo prospered. And much to his liking were the horses that the plain now gave him.
 
-So he knew satisfaction, and the men and women of his town knew satisfaction. A rich and expansive mood pervaded the place of the booths. Except for a few scattering thrusts trading, that had gone on since dawn, was over. Covetousness, fed, rested with sleepy, half-shut lids. Minds that, as each had thought, had shrewdly bargained, relaxed tension. Saba the harp-player sat against a wall and made music to tread the harp’s stretched chords. Dardin the magic-man had, in return for his spells bringing health and successful trading, a great dish of bronze. With it in his hands he looked at the noble sickle that Kadoumin the wily had bought with a brown foal. Bardanin the hunter had shoes that would tread thorns like gods, and{112} Targad had a painted quiver and baldric. Harran had a silver armlet. Lonami had given her greatest web for an ewer and dish of well-wrought metal, Istara had an ivory spindle made by the people between the rivers, and the daughters of Kamilil had garments dyed and fashioned by the seashore folk. The town made a deep, contented, murmurous sound.
+So he knew satisfaction, and the men and women of his town knew satisfaction. A rich and expansive mood pervaded the place of the booths. Except for a few scattering thrusts trading, that had gone on since dawn, was over. Covetousness, fed, rested with sleepy, half-shut lids. Minds that, as each had thought, had shrewdly bargained, relaxed tension. Saba the harp-player sat against a wall and made music to tread the harp’s stretched chords. Dardin the magic-man had, in return for his spells bringing health and successful trading, a great dish of bronze. With it in his hands he looked at the noble sickle that Kadoumin the wily had bought with a brown foal. Bardanin the hunter had shoes that would tread thorns like gods, and Targad had a painted quiver and baldric. Harran had a silver armlet. Lonami had given her greatest web for an ewer and dish of well-wrought metal, Istara had an ivory spindle made by the people between the rivers, and the daughters of Kamilil had garments dyed and fashioned by the seashore folk. The town made a deep, contented, murmurous sound.
 
 Mardurbo rested near Saba the harp-player. He looked at the horses in the staked enclosure the bondmen had made, and he thought of other steeds that he was to examine in the morning before the change goods left his hands. The people by the sea were lean with hunger for horses. He looked at a row of new bondmen, and he looked at goods that his town made, piled like tall anthills. Mardurbo sat embrowned, weary and satisfied, still observed by the town, granted to be the greatest trader, and good beside in war or council.
 
@@ -353,7 +354,7 @@ Vana stood beside him. “Let us speak now to the elders, and let them call the 
 
 They spoke, and when men and women understood the subject-matter there lacked no interest. The grass was dry fuel for the dropped fire.
 
-There stood in the middle of the town a council-tree, huge of bole, many-branched and forest-leaved. Beneath it the tribe had held council since the days of the far-back mother from whom it took origin and name. The day that{113} followed the market they held the council here. The elders sat around the trunk of the tree, and about these the chief men and women and the others in their degrees made larger and larger rings.
+There stood in the middle of the town a council-tree, huge of bole, many-branched and forest-leaved. Beneath it the tribe had held council since the days of the far-back mother from whom it took origin and name. The day that followed the market they held the council here. The elders sat around the trunk of the tree, and about these the chief men and women and the others in their degrees made larger and larger rings.
 
 All the chief men and women spoke, and some spake twice. All day that council held, a council to be marked by the tribe, in their annals of the earth, with a stone and a pillar and an altar smoke. When it began the eastern side of the tree was golden, when it ended the western.
 

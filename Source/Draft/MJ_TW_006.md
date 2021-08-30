@@ -55,7 +55,7 @@ Ramiki chanted:—
 
 >“Arzan answered Ramiki the prophet,  
 >‘Look, O man!  
->How the river breaks its bonds and is at home in new    lands!’”  
+>How the river breaks its bonds and is at home in new lands!’”  
 
 Halmis chanted:—  
 

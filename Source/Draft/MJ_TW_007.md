@@ -1,6 +1,7 @@
-CHAPTER VII
+# CHAPTER VII
 
-THE AMAZON
+## THE AMAZON
+
 The country of the Amazonian women ran in deep mountain gorges back from the sea to a tableland and certain forested peaks. At the foot of the gorge spread salt meadows, flat and green, overbreathed by the fragrant sea wind. Here was capital pasturage, and here on a day came down from the plateau a dozen mounted women driving before them flock and herd. The day was warm, the meadows bright. These gave to shining sands, the sands to sapphire sea. Behind the level green sprang the wood. Lowing and bleating, cattle and sheep came to the grass. The drovers saw all disposed, then, hot and tired with much work from dawn till noon, dismounted, fastened their horses in the wood and went down to the sea. Having bathed, with laughter and play, they stretched themselves upon the sand and opened a great wallet that held bread and dried meat, and untied the mouth of a wine skin.
 
 Their town was built three leagues away, in a cup of the mountain excellently guarded by grey crags. They thought that it had always been there, though indeed the old wise women said no. They said that their mothers had told them that their mothers’ mothers had heard of a time when there was a battle at the edge of the world, and that then fifty women, fleeing, had climbed to these mountains and here built a town and kept ancient customs. These were the ancestresses and divine! However that might be, here was now the town and the people. A queen ruled them.{140} On certain ritual days of the year they had intercourse with men of two neighbouring nations. Of the children born they kept the girls, but when the boys had seen twelve summers they sent these to the father nation. Year by year their ways of life, at first not so strange, grew to seem strange and stranger yet to the peoples who heard of them and elaborated and legended what they heard. To themselves it was old nature, very right and proper, dear, familiar life!
@@ -119,7 +120,7 @@ That was one day. The next he took bow and quiver and with eight companions went
 
 The cattle continued to sicken and to die. A monstrous hailstorm came and cut down the wheat and beat into ruin the dusters of young grapes. The fishermen of the island took few fish in their nets and those not the ones desired. At last the people said openly, “The king’s latest{153} prey, that he took with his two hands, who is it but that woman from the Amazon country?”
 
-Sandanis, in his house, listened to the chief priest of the island, and he listened with a hunted mind and a divided will. “Man cannot avoid the god!” warned the dark priest. “If the god’s hand points to this abhorrent and barbarian woman, will King Sandanis say him nay?”
+Sandanis, in his house, listened to the chief priest of the island, and he listened with a hunted mind and a divided will. “Man cannot avoid the god!” warned the dark priest. “If the god’s hand points to this abhorrent and barbarian woman, will King Sandanis say him nay?"
 
 “And if I did?” said Sandanis.
 

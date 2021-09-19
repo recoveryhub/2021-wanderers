@@ -1,6 +1,7 @@
-CHAPTER IX
+# CHAPTER IX
 
-GLAUCON AND MYRINA
+## GLAUCON AND MYRINA
+
 Glaucon, the statesman and soldier, walked homeward from the Prytaneum where the city had received certain strangers of note, envoys to Athens. With him moved Theodorus the sculptor, and behind the two several attendant slaves. The air was fine, with a breeze from the sea. Theodorus made his companion remark the light that fell upon Mount Lycabettus. Glaucon looked and said that the effect was good, but said it in a tone of abstraction. His mind was yet in the Prytaneum, engaged with his speech that the occasion had prompted. Glaucon’s phrases yet echoed in Glaucon’s ears. They had been good phrases and Glaucon thought them good. He would have judged “sententious” and “strong” to be applicable words. Those, and “at times eloquence, like the light upon Mount Lycabettus.” Yet was the statesman Glaucon by no means impudent of his merit nor a common braggart. He had spoken well and for the right as he saw it, and he saw more than many. And behind what Glaucon said stood, for men to see, many known courageous acts of Glaucon.
 
 The two lived near the Diomean Gate. Now, making way through the crowded streets, the hour being one when men were abroad, they reached a palæstra and saw about to enter several of their acquaintance—Lycias the poet, Ion, Lysander, Hippodamus, and others. These called to the two to enter also and observe Thracian wrestlers. All{179} went in together and, mingled with a crowd, watched the mighty-thewed. When the match was over the group, leaving the palæstra, but still talking of the body and its powers, went along until there was reached the small temple of Hestia. Here the steps rose invitingly free of the crowd, and the space between the pillars smiled and invited. The light yet shone upon the mountains and upon the temples of the Acropolis. Lycias and Theodorus would pause and in the porch of Hestia continue the conversation while observing the beauty of the evening. Glaucon remarked that he had business at home. “Let it take its rest!” said Lycias. “You are a poet, also, Glaucon, and a painter and a maker of statues—just as I converse familiarly with envoys and undoubtedly fought at Megara, though I cannot just now recall having done so! Every man sacrifices in every temple. Stay and put up your hands to beauty, and let business go throw herself down from the wall!”
@@ -207,8 +208,9 @@ The slaves poured the wine, and the philosopher drank. Said Myrina: “Dion and 
 
 “Am I answered?—This is the second question. Does Æschylus speak truly for Apollo when he causes him to say{193}—
 
-“‘The mother bears, but never truly makes the child,
-Only the father makes’?”
+> “‘The mother bears, but never truly makes the child,
+> Only the father makes’?”
+
 “I, O Myrina, am not a poet but a philosopher.—So Æschylus said Apollo said.—Women cry to Demeter for many things, but never, that I heard of, for vengeance upon Æschylus! So, none objecting, it must be true.”
 
 The cicadas made music in the tree. Myrina regarded the dust at her feet. She laughed, a dry sound like the cicadas’ tune. “Low things, rated lowly, put up low claims.—Give me wine, Xanthus.”

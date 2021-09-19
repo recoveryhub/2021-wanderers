@@ -1,6 +1,7 @@
-CHAPTER X
+# CHAPTER X
 
-THE PEARL OF THE DEEP
+## THE PEARL OF THE DEEP
+
 Meranes, the turbaned satrap, had a palace that to the west sent its gardens to the sea-edge, and on the east opened sheer upon the ever-humming hive that was his satrapy’s chief town. The palace owned a great, middle body with arm-like processes, jointed tentacles that strayed afar into odorous and flower-spangled wildernesses, and all was at once fantastically and strongly built. There were gilding and mosaic and fretwork that treated stone like flax. The palace spread, many-courted, myriad-roomed, multi-coloured. On the dusky garden side it was mingled with trees and bloom and fruit: it knew deep alleys and shadowy rings, and stone water tanks where lilies were planted and fish swam. But on the town side it rose blank and clear from the hot and clanging place. Here was the official palace—the palace of the audience, of the satrap’s government, of officials, soldiers, magi, principal men and the horde that was not principal, spies, confidants, merchants of sorts, ministers and attendants of pleasure, of orders given and received, of complaint, pleading, demand, grievances and clamour, reward and punishment, strife open and concealed, jealousy, rivalry, lies, greed, fanatic hate and fanatic devotion, and always a brew of conspiracies, great and small, very many small, and on hand perpetually one or two great. Such a cloud hung always over it, hung garden side and city side, for influences were subtle and stole between. Breathing that musk and sandal,{200} hearing always that whispering, governed Meranes, satrap of a deep province, slave only to the namer of the satraps, the eastern king who was despot of a dozen despots.
 
 Under Meranes, the governor of the chief city was Sadyattes. The magus of most power was Artaxias.
@@ -219,19 +220,19 @@ Sadyattes drew from his girdle a written-over paper. “This is for Nitetis, fro
 
 Aryenis thought that it was so, for indeed the letter was finely forged. Sadyattes and that foster-brother and a ring of principal men, with many a subtle helper that was not seen to be principal, had wrought well toward making a fine, envenomed instrument for their purposes, and the letter was great aid thereto. “Read,” said Sadyattes, and Aryenis read Nitetis’s name and love terms around it, and lines that followed, and Meranes’s name, and all in the hand, so she thought, of Meranes. She read in a voice that was a gathered sheaf of myriads of voices—old and old voices.{214}
 
-“The pearl that is false, I will bray in a mortar. The rose that is true, I will set at the height of the garden....”
+*“The pearl that is false, I will bray in a mortar. The rose that is true, I will set at the height of the garden....”*
 
 “They call her the rose.—Meranes! Meranes!”
 
 “Read—read!” said Sadyattes.
 
-“The rose that is true, I will set at the height of the garden. The bud that is mine and the rose’s, I will cherish, but the false son will I blind and turn into the desert!...”
+*“The rose that is true, I will set at the height of the garden. The bud that is mine and the rose’s, I will cherish, but the false son will I blind and turn into the desert!...”*
 
 “The palace is falling, there are waves that are rising.”
 
 “Read—read!” said Sadyattes.
 
-“The one that I left in a high place shall curse the day of his birth!”
+*“The one that I left in a high place shall curse the day of his birth!”*
 
 “That is I, Sadyattes, the diver.”
 

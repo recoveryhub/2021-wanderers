@@ -1,6 +1,7 @@
-CHAPTER VIII
+# CHAPTER VIII
 
-THE PRIESTESS OF MARDUK
+## THE PRIESTESS OF MARDUK
+
 Babylon, builded of brick, lay four-square in its fat plain. Fields of the best grain in the world shimmered out and afar, westward, beyond Euphrates to the desert edge, eastward to Tigris, to Akkad north, and south to the sea where stood Eridu, city of Ea, the old Father-God. Babylon was moated, Babylon was walled, a great, slow river ran through Babylon. Houses stood thick in Babylon, and the narrow streets were many, and every building was made of baked clay, for there was little stone in the land, and where long and long since had waved uncounted trees now waved the heavy-eared grain. The houses where the people dwelled were small and low. The house where the king dwelled was not high, but huge of breadth, and brazen-gated. Likewise the houses of the gods were huge, where-ever they rose in the city. And hugest of all, huge as two or three of the others put together, covering no mere hands’ breadth of earth floor, spread the house of Marduk, son of Ea, once god of this city only, now strongest god of many gods in a wide land.
 
 Many-courted and many-roomed was the house of Marduk.
@@ -33,7 +34,7 @@ It seemed that Innina-nûri was doing wrong.... It seemed that Nanâ-iddin was g
 
 A wind ran through the houses of Ibni-Shamash’s kindred. Iltani, too, heard the wind.
 
-“Justice of Marduk and the King. Innina-nûri, that will not be wife to her husband, Nanâ-iddin, shall be thrown into the river.... Mercy of Marduk and the King. Two days are given to Innina-nûri for repentance and returning to Nanâ-iddin.”
+*“Justice of Marduk and the King. Innina-nûri, that will not be wife to her husband, Nanâ-iddin, shall be thrown into the river.... Mercy of Marduk and the King. Two days are given to Innina-nûri for repentance and returning to Nanâ-iddin.”* 
 
 “O women!” said Lugal-naid when he returned to his house that eve. “See what comes of wrong-doing!”
 
@@ -111,7 +112,7 @@ So high an honour was the dream, the aspiration, vague or distinct of every maid
 
 But now, day and night, she saw before her the winged Marduk, shining one, god of gods! Desire held her, to be, that day, of the mountain-top. It sprang like a strong tree in the rose-lit forest, or rather it stood the forest itself....
 
-Dav after day went by, and here was autumn. The votary Â-rishat spoke to Iltani. “The rulers of the temple sit to-day in the room of the lion. You and twenty more are chosen to pass before them.”
+Day after day went by, and here was autumn. The votary Â-rishat spoke to Iltani. “The rulers of the temple sit to-day in the room of the lion. You and twenty more are chosen to pass before them.”
 
 Priests and priestesses, chiefs in sanctity, sat in the room of the lion. Iltani saw them as huge veiled forms, guardians of the way to Marduk, god of gods, raying light—
 
@@ -157,7 +158,7 @@ The sun’s rays came slant. At the mountain-top, she heard at the mountain foot
 
 The lover was the winged Marduk—never, never must she lose him!... The trumpets were more loudly blowing, and now she might hear rising to her the strong chanting, the rhythmic tread. There was an altar in the room, and upon it a burning fire. Now she rose and, as she had been taught to do, heaped this with the richest spices, with sandalwood and frankincense. The room filled with thin clouds, blue and fragrant, and in the heart of these stood Iltani, and her soul beat about to repel the terror and keep the ecstasy.
 
-Lugal-naid, and Ibni-Shamash and Nanâ-iddin, Ramtû, Ina-banat and Belatum, Innina-nûri, Tuda-Ishtar—teachings formal and informal, conscious, unconscious, word of mouth and blow from hand, long, long, long impressions, tellings and tellings and tellings, repetitions, as it were, before she was born, and repetitions after she was born—very much and very strong drew to themselves, whelmed and coloured the soul of the votary.... Iltani would have still the ecstasy, the abandonment, the feeling of god-presence. If he were not the god, make him such—make him such! Perhaps he was the god—perhaps he was—With man and woman man was highest always—Man was highest—Lugal-naid said it, Ramtû, Ina-banat, Belatum said it! Man was highest—man to woman was as god to votary!
+Lugal-naid, and Ibni-Shamash and Nanâ-iddin, Ramtû, Ina-banat and Belatum, Innina-nûri, Tuda-Ishtar—teachings formal and informal, conscious, unconscious, word of mouth and blow from hand, long, long, long impressions, tellings and tellings and tellings, repetitions, as it were, before she was born, and repetitions after she was born—very much and very strong drew to themselves, whelmed and coloured the soul of the votary.... Iltani would have still the ecstasy, the abandonment, the feeling of god-presence. *If he were not the god, make him such—make him such! Perhaps he was the god—perhaps he was—* With man and woman man was highest always—Man was highest—Lugal-naid said it, Ramtû, Ina-banat, Belatum said it! Man was highest—man to woman was as god to votary!
 
 She would not lose the winged Marduk, and she could not believe in her own wings. So she spread the burning frankincense, and she turned the altar of the god somewhat from the east, and in the blue smoke now rising, now flattened to right or left, now rolling downward, she, of her{177} own movement, touched her forehead to the earth and beheld man as god.
 

@@ -1,0 +1,14 @@
+# this file is not version controlled
+# please include sensitive information and computer specific settings in this file
+# and put all other widely applicable settings in the public.yml file
+
+default:
+  # number of files processed at the same time, increase for more powerful computers
+  threads: 5
+development:
+  es_path: https://edit_private_config/elastic
+  es_index: edit_private_config
+production:
+  es_path: https://edit_private_config/elastic
+  es_index: edit_private_config
+

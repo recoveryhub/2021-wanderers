@@ -11,3 +11,10 @@ config/private.yml
 /output/production/*
 !/output/production/html
 
+# Jekyll
+
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor

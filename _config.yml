@@ -32,11 +32,52 @@ theme: minima
 plugins:
   - jekyll-feed
 
-collections:
-  category:
-    output: true
+# collections:
+#   test:
+#     defaults:
+#       layout: post
+#     output: true
+#     permalink: /test/:path/
+#   item:
+#     defaults:
+#       layout: post
+#     output: true
+#     permalink: /item/test/:path/
 
-include: ['Source/Draft']
+category: ["item"]
+
+defaults:
+  - scope:
+      path: "item" # an empty string here means all files in the project
+      type: pages
+    values:
+      layout: default
+      category: item
+      # This should work according to this page but does not https://talk.jekyllrb.com/t/creating-custom-permalinks-for-each-post-category/434/4
+      # permalink: test/:title
+  - scope:
+      path: "zzz" # an empty string here means all files in the project
+      type: posts
+    values:
+      layout: default
+      category: zzz
+      
+# collections:
+#   item:
+#     output: true
+#     permalink: /:collection/test/:name
+
+# defaults:
+#    - scope:
+#        path: item
+#      values:
+#        category: item
+
+include: ['item']
+exclude: ['Source']
+
+future: true
+unpublished: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

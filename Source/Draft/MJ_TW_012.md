@@ -1,9 +1,10 @@
-CHAPTER XII
+# CHAPTER XII
 
-VALERIAN AND VALERIA
+## VALERIAN AND VALERIA
+
 The emperor, acting in his capacity as Pontifex Maximus, had confirmed as virgin priestess of Vesta, Flavia, a child of ten, daughter of Valerian and Valeria. To celebrate the event Valerian gave the people games. Held in the new Amphitheatre, the spectacle drew all Rome. The emperor honoured the donor by his presence. Gladiators contended, after strange fashions, with beasts of the wood and the plain and with one another. Valerian, a successful general, lately returned from the west, had brought prisoners, great flaxen-headed men, who now fought, divided into two bands, kin against kin, with freedom the prize for the surviving.
 
-The Amphitheatre was huge, one oval, hollow wave of men and women. The people came early, struggling for good seats, desirous of being on hand for every important entrance,—the emperor, the senators, the prefect of the city, the vestals, the donors of the games, the famed, the rich, the knowing. Down streamed the sun, hot and bare upon the arena, broken elsewhere by awnings of rose and blue. Flowers withered in garlands, perfumes were burning in silver braziers. A sea of sound steadfastly beat against the ear, a vast blend of voices, male and female, of every quality. Vigiles kept order. In the arena, in the sloping passways between the divisions of the benches, jugglers and buffoons and pantomimists kept the many amused until there should arrive the glittering few. Fruit and a kind of{239} comfit were carried about and distributed. The people acclaimed Valerian the Generous.
+The Amphitheatre was huge, one oval, hollow wave of men and women. The people came early, struggling for good seats, desirous of being on hand for every important entrance,—the emperor, the senators, the prefect of the city, the vestals, the donors of the games, the famed, the rich, the knowing. Down streamed the sun, hot and bare upon the arena, broken elsewhere by awnings of rose and blue. Flowers withered in garlands, perfumes were burning in silver braziers. A sea of sound steadfastly beat against the ear, a vast blend of voices, male and female, of every quality. *Vigiles* kept order. In the arena, in the sloping passways between the divisions of the benches, jugglers and buffoons and pantomimists kept the many amused until there should arrive the glittering few. Fruit and a kind of{239} comfit were carried about and distributed. The people acclaimed Valerian the Generous.
 
 The freedwoman Lais picked a great bunch of grapes for herself, and another for her daughter Iras, a child a year or so older than the little new vestal. “Valeria has a marble chair while I have a stone bench,” quoth Lais. “But she can eat no better grapes than these! Moreover, she has kissed her girl for the last time to-day, while I can kiss mine any day! Still the gods keep planting thistles with roses!”
 
@@ -138,7 +139,6 @@ Valerian came and stood beside her. “The woman was Lais the Greek. Five years 
 “Her name?... I cannot,” said Valerian, “remember it.”
 
  
-
 From the Rhine, from post to post, along the Roman roads, came with swiftness tidings that again the Marcomanni had risen in revolt. Back to his legion, encamped upon that river, hastened Valerian. Arrived, he made junction with an endangered legion stationed inland, and drove with twin eagles against the Marcomanni. These broke, these fled; a host was slain, a host taken. The brand of revolt, dashed against earth, had its fire put out. The auxiliaries who brought to Rome, over hundreds of leagues, over Roman roads, to slavery, to the games of the Amphi{249}theatre, the huge many of prisoners, brought also praise of Valerian. The victory praised him, the safety of the legions praised him. The emperor nodded, looked aslant, made the sign that kept away evil. Said one under his breath to another in the house of Cæsar, “Do not win too much nor be liked too well, for that is the road to the Mamertine!”
 
 Valerian, far from Rome and that savour of incense and look of danger, obeyed soldierly duty and something higher. Revolt subdued, he conciliated, organized, administered, and all was done well. It took time. Months rolled away in the northern forests, by the northern streams. The months became a year, the year two years, the two three. Valerian wrote to Rome, asking permission to return for a while to family and estate. Permission was denied. He had thought that it would be so, for letters told him that ever more and more Cæsar hated other men’s successes, and that, besides, certain foes of his worked against him in Rome. Upon the heels of that denial came an order to proceed to the command of a legion in Britain. That was to leave a famous legion for one not so famed. That was to leave captain and soldiers who engaged for victory wheresoever he led for others who knew him not. It was to leave a region that he knew for obscure struggles with the Caledonians at the edge of the world. Valerian sat with his chin in his hand, and pondered his own revolt—his own and the famed legion, drawing with it other legions. He shook his head; he consulted loyalty and the public good. Obeying the imperial word, he set his face to the west, he travelled long and far, and crossed the narrow sea and came to Britain and travelled the Roman road to the legion in the north. Here he stayed two years and did well, so well that at the end of that time he was sent to command not a{250} legion, but auxiliary troops in a poor and drowsy corner of the empire where Opportunity might be expected never to show her face. Expectation was disappointed; in the third year Opportunity appeared with suddenness. Valerian took her by both hands. His name once more became sonorous. When he had been almost ten years from Rome he was summoned home. He was sure that it was to ruin.
@@ -265,13 +265,13 @@ Valeria walked in silence. She looked before her, but truly she was seeing the w
 
 But it seemed that the other woman had passed one{261} silence and not come to another. “Men—men! Dæmons are their gods and dæmons are themselves!... It is true what the Christians say.... So many years ago, Valerian, but all things find us out!”
 
-“Valerian,” said Valeria. “Lais the flower-seller.... Where are you going, Lais?”
+*“Valerian,”* said Valeria. *“Lais the flower-seller*.... Where are you going, Lais?”
 
 “To Cæsar’s villa. You do not look old any longer. I have seen you before. Who are you?”
 
 “Valeria is my name.... Why are you going to Cæsar?”
 
-“Valeria! Valeria! I might have guessed that! You are going, too, to beg, beg, beg with your face against Cæsar’s feet!—Oh, your daughter, too! Oh, that vestal for whom they dig a chamber under ground—”
+*“Valeria! Valeria!* I might have guessed that! You are going, too, to beg, beg, beg with your face against Cæsar’s feet!—Oh, your daughter, too! Oh, that vestal for whom they dig a chamber under ground—”
 
 “Where is your daughter, the dancer?”
 

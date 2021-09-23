@@ -2,49 +2,57 @@
 layout: default
 ---
 
-<pre style="white-space: normal;">
- {{ page.categories | inspect}}
-</pre>
+{% comment %}
+    for variable "categories" below: Categories listed here must match exactly the 
+    categories defined in _config.yml. 
+    The categoroes are not showing up in the site.categories object but are attached 
+    to the items, so listing here instead. ¯\_(ツ)_/¯
+{% endcomment %}
 
-<hr/>
+{% assign categories = "draft, no_category, book, periodical, essay" | split: ", " %}
 
-<!-- https://stackoverflow.com/questions/26218697/jekyll-plugin-to-handle-categories-doesnt-work-on-github -->
-<div class="posts">
-  {% for page in site.pages %}
-  {% if page.category == 'item' %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
-    </h1>
-    {{ page.content }}
-  </div>
-  {% endif %}
+<div class="categories_listing">
+  {% for category in categories %}
+    <div class="category_listing">
+    <h2>{{ category | replace: "_", " " | capitalize }}</h2>
+      <ul>
+        {%- assign default_paths = site.pages | map: "path" -%}
+        {%- assign page_paths = site.header_pages | default: default_paths -%}
+        {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
+        
+        {%- for path in page_paths -%}
+      {%- assign my_page = site.pages | where: "path", path | first -%}
+          {%- if my_page.category == category -%}
+            {%- if my_page.title -%}
+              <li>
+                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              </li>
+            {%- endif -%}
+          {%- endif -%}
+        {%- endfor -%}
+      </ul>
+    </div>
   {% endfor %}
 </div>
 
+{% comment %}
+    below is for troubleshooting, will comment out when done
+{% endcomment %}
 
-
-
-<hr/>
-
-
-
-<h1>List of files</h1>
+<h1>List of all files</h1>
 
 <ul>
-{%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign page_paths = site.header_pages | default: default_paths -%}
-    {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
+  {%- assign default_paths = site.pages | map: "path" -%}
+  {%- assign page_paths = site.header_pages | default: default_paths -%}
+  {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
+  
+  {%- for path in page_paths -%}
+    {%- assign my_page = site.pages | where: "path", path | first -%}
+      {%- if my_page.title -%}
+        <li>
+          <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }} - {{my_page.category | inspect}}</a>
+        </li>
+      {%- endif -%}
 
-{%- for path in page_paths -%}
-  {%- assign my_page = site.pages | where: "path", path | first -%}
-  {%- if my_page.category == 'item' -%}
-    {%- if my_page.title -%}
-    <li><a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }} - {{my_page.category | inspect}}</a></li>
-    {%- endif -%}
-  {%- endif -%}
-{%- endfor -%}
+  {%- endfor -%}
 </ul>
-
-
-

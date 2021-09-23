@@ -1,0 +1,12 @@
+.categories_listing {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.category_listing {
+ border: 1px solid #aaa;
+ margin: 10px 10px 0 0;
+ padding: 10px;
+ flex-grow: 1;
+}

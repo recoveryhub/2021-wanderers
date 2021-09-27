@@ -33,6 +33,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Categories listed here must match the 
+# categories in defaults. 
+# The categoroes are not showing up in the 
+# site.categories object  ¯\_(ツ)_/¯
+
+category_list: ["no_category", "site", "draft", "book", "periodical", "essay"]
+
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
@@ -41,7 +48,7 @@ defaults:
       layout: default
       category: no_category
   - scope:
-      path: "_pages" # an empty string here means all files in the project
+      path: "_pages"
       type: pages
     values:
       layout: default
@@ -58,13 +65,13 @@ defaults:
       path: "book"
       type: pages
     values:
-      layout: default
+      layout: paginate
       category: book
   - scope:
       path: "periodical"
       type: pages
     values:
-      layout: default
+      layout: paginate
       category: periodical
   - scope:
       path: "essay"

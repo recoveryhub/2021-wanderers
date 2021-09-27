@@ -1,18 +1,9 @@
 ---
-layout: default
+title: Listing of all pages
 ---
 
-{% comment %}
-    for variable "categories" below: Categories listed here must match exactly the 
-    categories defined in _config.yml. 
-    The categoroes are not showing up in the site.categories object but are attached 
-    to the items, so listing here instead. ¯\_(ツ)_/¯
-{% endcomment %}
-
-{% assign categories = "draft, no_category, book, periodical, essay" | split: ", " %}
-
 <div class="categories_listing">
-  {% for category in categories %}
+  {% for category in site.category_list %}
     <div class="category_listing">
     <h2>{{ category | replace: "_", " " | capitalize }}</h2>
       <ul>

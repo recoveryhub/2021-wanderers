@@ -29,14 +29,56 @@ github_username:  recoveryhub
 
 # Build settings
 theme: minima
+
 plugins:
   - jekyll-feed
 
-collections:
-  category:
-    output: true
+# Categories listed here must match the 
+# categories in defaults. 
+# The categoroes are not showing up in the 
+# site.categories object  ¯\_(ツ)_/¯
 
-include: ['Source/Draft']
+category_list: ["no_category", "site", "draft", "book", "periodical", "essay"]
+
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: pages
+    values:
+      layout: default
+      category: no_category
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: default
+      category: site
+  - scope:
+      path: "Source/Draft"
+      type: pages
+    values:
+      layout: default
+      category: draft
+      # This should work according to this page but does not https://talk.jekyllrb.com/t/creating-custom-permalinks-for-each-post-category/434/4
+      # permalink: draft/:title
+  - scope:
+      path: "book"
+      type: pages
+    values:
+      layout: paginate
+      category: book
+  - scope:
+      path: "periodical"
+      type: pages
+    values:
+      layout: paginate
+      category: periodical
+  - scope:
+      path: "essay"
+      type: pages
+    values:
+      layout: default
+      category: essay
 
 # Exclude from processing.
 # The following items will not be processed, by default.

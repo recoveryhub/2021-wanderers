@@ -1,6 +1,7 @@
-CHAPTER XVI
+# CHAPTER XVI
 
-MOONLIGHT
+## MOONLIGHT
+
 The moon shone full and splendid, silvering the garden. The garden was formal, paved paths outlining and enclosing flower beds geometrically shaped—squares, circles, and triangles. But the riot of flowers overslipped the edges. Flowers bloomed in multitude and made an ocean of perfume. Perpetually there was sound of water, sliding and falling water. It ran in narrow channels, and slept in a pool lined with marble, and fell from stair to stair in a cascade formed by art. Black cypress trees stood up like spires, on such a night silver spires, fairy spires. The garden belonged to a castle palace that with huge stone arms clipped it on three sides. The fourth saw cliffs and the sea, the sea like one smooth shield of silver. The moon shone so bright that it put out all but the larger stars. In the garden, in the trees, sang the nightingales.
 
 Through a low, arched doorway came into the garden a man and a woman. “O the moon, the moonlight! O the nightingales!” They took the path that outlined a square of flowers. Followed them through the doorway a second couple—man and woman. “O the moon! Smell the orange trees!” They went the path by the orange trees. A third pair came forth—man and woman. “The moon on the sea! Hear the nightingales!” They paced around the circle of roses. A fourth pair followed—a fifth—a sixth—a seventh—an eighth. It seemed an Embark{346}ment for Cythera. Here were ladies and their knights—here were knights and ladies. Amaury and Adelaide—Balthasar and Bérengère—Barral and Constance—Guibour and Mélisande—Roland and Blanche—Thierry and Laure—Aldhelm and Eleanor—Raimbauld and Tiphaine.
@@ -73,20 +74,21 @@ But when it came to the majority they would not penance Tanneguy the Prince, who
 
 Tanneguy took the lute from Guibour and sang,—
 
-“‘I dreamed the All was whole and knew Itself,
-A robe it wore of million hues,
-And million shapes that moved and played.
-And here were flowers and here were fruit,
-The vine ran here, the tree sprang there,
-The root was seen, the seed, the stem,
-And there were women, there were men!—
-Yet all were figures in Its robe,
-And when It thought, they shifted form.
-Whence drew the Robe but from Itself?
-And all the dreams, and all the shapes?—
-O man and woman, know Thyself!
-O shaken notes, re-find the chord!’—
-That is my song and Beatrix’s, for we made it together!”
+>“‘I dreamed the All was whole and knew Itself,  
+>A robe it wore of million hues,  
+>And million shapes that moved and played.  
+>And here were flowers and here were fruit,  
+>The vine ran here, the tree sprang there,  
+>The root was seen, the seed, the stem,  
+>And there were women, there were men!—  
+>Yet all were figures in Its robe,  
+>And when It thought, they shifted form.  
+>Whence drew the Robe but from Itself?  
+>And all the dreams, and all the shapes?—  
+>O man and woman, know Thyself!  
+>O shaken notes, re-find the chord!’—  
+
+That is my song and Beatrix’s, for we made it together!”  
 
 The summer dawn began, the early summer, between spring and summer. There rang a convent bell. Cocks crew. The stars went out; the moon, like a pearl, like a fairy raft, like a bubble, hung in the west, above the sea. Behind the castle the sky spread branched with coral. The nightingales still sang, but out of sheer weariness with delight, the knights, the troubadours, the ladies, quitting the perron, went into castle.
 
@@ -248,8 +250,8 @@ Tanneguy the Prince made princely entertainment for Sir Robert of the Good Lance
 
 A train of knights accompanied Hugh of the Mount and the Lady Beatrix and the two children to the port where waited the fleet. Tanneguy was with them, and rode beside Beatrix. All came upon a midday to the great inn of the port. In the morning the ships would sail. Alone in a room of the inn, red from the setting sun, Tanneguy and Beatrix said farewell.
 
-“What we live for now is to make the gold—”
+*“What we live for now is to make the gold—”*  
 
-“To build the world where love lives as one—”
+*“To build the world where love lives as one—”*  
 
 In the red morn of All Saints’ Day the great ship sailed.{360} Tanneguy the Prince watched from the sea strand. It went forth under sails like stairs of clouds, it dwindled until it was only a star in the east. Then distance came between, and only faith could know that there was there a star.

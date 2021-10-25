@@ -1,6 +1,7 @@
-CHAPTER XVII
+# CHAPTER XVII
 
-THEKLA AND EBERHARD
+## THEKLA AND EBERHARD
+
 Eberhard, Albrecht, and Ulrich, wandering students, came into Hauptberg on a winter noon, and knowing the town, made straight for the Golden Eagle, an inn loved by all vagabond students, young and not so young, “new men,” “poets” as against schoolmen, lovers of the pagan knowledge, droppers of corrosives upon the existing order, prophets of a world behind this-world, the humanist left. The Golden Eagle stood in an angle of the town wall, high red-roofed, shining-windowed, kept by Hans Knapp and Bertha his wife. The December sun made vivid all the red roofs of Hauptberg, it turned the huge cathedral into something lighter than stone, it tossed nodding sheaves of light among the prosperous burghers’ houses, it overwrote the walls of a monastery of Augustinian Hermits, it added scroll and circle of its own to the ornamented storied front of the mighty guild hall; and garmented the winter trees in the university close. The bright and nipping air put ripe apple colour into the faces of the various street-farers. These moved quickly, with bodies slightly slanted, arms folded; if they were well-to-do, in woolen and furred mantles. The poor also moved quickly, with unmantled shoulders shrugged together. The town musicians were somewhere at practice. One heard a great drum and horns.
 
 In a number of the street-farers showed a degree of{362} excitement, an eagerness to exchange speech and views with acquaintances, or even with non-acquaintances. This itch was evident in many who encountered the incoming, wandering students. “From Wittenberg way? And what is the news?”
@@ -19,21 +20,22 @@ Here was the steep red roof, and the swinging, creaking Eagle sign, and the benc
 
 Conrad Devilson beat with his tankard upon the table of the Golden Eagle.
 
-“That day of joy,
-That lovely day,
-When Aristotle,
-Thomas Aquinas,
-Albertus Magnus,
-William of Occam,
-Duns Scotus,
-Peter the Lombard.
-The monk,
-The priest,
-John Tetzel,
-The Archbishop of Mainz,
-The bull Exurge Domine, and
-The Power of Rome
-Shall pass away!”
+>>“That day of joy,  
+>>That lovely day,  
+>>When Aristotle,  
+>>Thomas Aquinas,  
+>>Albertus Magnus,  
+>>William of Occam, 
+>>Duns Scotus,  
+>>Peter the Lombard.  
+>>The monk,  
+>>The priest,  
+>>John Tetzel,  
+>>The Archbishop of Mainz,  
+>>The bull Exurge Domine, and  
+>>The Power of Rome  
+>>Shall pass away!”  
+
 He had a voice that boomed and reverberated. In came the three wandering students. “Why, here are others of the time’s darlings!” cried Walther von Langen.
 
 Conrad Devilson put down his tankard and got to his feet. “Eberhard, Eberhard! Welcome to Hauptberg!”
@@ -136,10 +138,10 @@ He and Albrecht and Ulrich and Walther von Langen had risen from settle and stoo
 
 Without the small red and brown house, across the ribbon of brown garden, in the narrow street red-flushed from the red west, three fell to singing,—
 
-“Down goes the old world,
-Up comes the new!
-Death on a pale horse
-Rides down the proud—”
+>>“Down goes the old world,  
+>>Up comes the new!  
+>>Death on a pale horse  
+>>Rides down the proud—”  
 {371}
 They sang with enthusiasm, but their ardour had youth and geniality. They were wandering students, humanists, not reforming monks.
 
@@ -149,10 +151,11 @@ Eberhard and Conrad Devilson did not sing, but talked. They dropped a little beh
 
 The wandering students were singing,—
 
-“Round turns the wheel,
-The wheel turns round!
-Comes down the lord of all,
-The wheel grows an orb—”
+>>“Round turns the wheel,  
+>>The wheel turns round!  
+>>Comes down the lord of all,  
+>>The wheel grows an orb—”  
+
 Now they were before the Golden Eagle, and out of door and window floated voices of Heinrich, Karl, and Johann.
 
 That was December. In February Charles the Fifth made to be drawn an edict against Luther. The Diet sitting at Worms refused assent. April, and Luther, at Worms, stood in his own defence, spoke with a great, plain eloquence. Eloquence never saved a man against whom set the main current of his time. The main current of his time going with him, Martin Luther rode in a seaworthy{372} boat. Storms there were, thunder and lightning, tempest and a lashed ocean—but the boat rode. May, and Pope and Emperor threatened that revolt and all who had share therein with fire in this world and in the world hereafter. The revolt made itself a stronger current.

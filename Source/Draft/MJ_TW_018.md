@@ -1,6 +1,7 @@
-CHAPTER XVIII
+# CHAPTER XVIII
 
-THE RIGHT OF KINGS
+## THE RIGHT OF KINGS
+
 Richard Osmund and his white horse approached Great Meadow. The year was at autumn, the year 1654. A considerable village, Great Meadow spread over the ancient meadow and a short way up the hill. Meadow and hill had for a border a still, complacent river. The hill was crested by an old wood, and along the roadside stood huge, bronzing trees. A mile from town a stream turned a mill wheel. From the tall stone mill might be seen clustering houses with small bright dooryards, and the village green and an ancient church and churchyard.
 
 Richard Osmund rode slowly, a steadfast man in a plain dress of brown. Dress and his short-cut hair, and his uncocked hat, general demeanour as well, marked him for some shade of inhabitant of the Puritan and Parliamentary hemisphere. But within this general part of the globe it was hard to class him. He did not look mere Church Reform, nor yet Presbyterian, nor precisely Independent, not yet Anabaptist nor Leveller. Certainly he must be a dissident of some sort, but of what sort?
@@ -117,7 +118,7 @@ Osmund laughed, standing on the churchyard steps. His laughter was not bitter, b
 
 The more violent sort broke forth again. “Pull him down! Have away with him! In Warwick it was gaol for him, and in Coventry cart tail and pillory! Heinousness! Heinousness and blasphemy!” Clamour arose and a movement from within the throng toward the steps and Osmund upon them. Then appeared the Great Meadow constable and his men. “Order—order here, in the name of the Commonwealth!”
 
-Osmund cried on. “Men are not free to-day, and women are less free! Were women as free to-day as are men, still would men and women have many a thousand wards to break, as many well-nigh as the sands of the sea! We use the word ‘freedom,’ but we are to be freedom! So I do not end, Great Meadow, with ‘Let women rule, too!’ But in this hour I preach, ‘What freedom there is, let us share and share alike! What freedom there is, let it be for{399} women as for men! What freedom there is, let it run healthily through the whole body!’”
+Osmund cried on. “Men are not free to-day, and women are less free! Were women as free to-day as are men, still would men and women have many a thousand wards to break, as many well-nigh as the sands of the sea! We use the word ‘freedom,’ but we are to *be* freedom! So I do not end, Great Meadow, with ‘Let women rule, too!’ But in this hour I preach, ‘What freedom there is, let us share and share alike! What freedom there is, let it be for{399} women as for men! What freedom there is, let it run healthily through the whole body!’”
 
 “He is a Friend! He is a Quaker! He and George Fox are birds of a feather!”
 

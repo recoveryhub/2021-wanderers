@@ -13,8 +13,8 @@ But the day had begun wrong. A lot of other folk were there, too, and they tried
 ## test
 
 [^1]: This is the first footnote.
-[^1]: This is the second footnote.
-[^1]: This is the third footnote.
+[^2]: This is the second footnote.
+[^3]: This is the third footnote.
 
 d
 d

@@ -1,6 +1,6 @@
 # CHAPTER II
 
-## THE CAVE
+## THE CAVE[^1]
 
 The rocks rose in tiers to a stark height above the dark and tangled wood. From their feet sloped away to the floor of mould a runway of stones great and small. Long ago, long, long ago, water had honeycombed the cliff.
 
@@ -99,3 +99,7 @@ She nodded, then waved her hand toward the world beneath. “Soon all cold. But 
 He looked doubtfully at that, but just then the littlest crowed, and the next to the littlest laughed, and the eldest put a stick upon the fire and set up a warmer light. A thing happened. The man’s look softened and mellowed. He felt within something that he had never felt before. He grunted, took up the knife again and chipped with vigour. The woman said nothing for a time, then she spoke somewhat dreamily. “One hunt alone—get tired. Two hunt together, good—good.... Two stay together—two and children.” She moved nearer to him. “Good?” she repeated on an at once insisting and questioning note.
 
 The man sharpened and sharpened the flint knife. Mental processes were as yet somewhat snail-like and it took time to measure a large, new proposition. He looked at the woman, and back into the cave and down over the turning forest, and then at the woman again. Again his face broke slowly into that dusky, promising warmth. “Pretty good,” he said, and began to fashion from a bit of wood a handle for his knife.
+
+##Footnotes
+
+[^1]: Chapter II appears to be set in the Middle or Upper Paleolithic (Early Stone) period (circa 120,000 to 10,000 years ago), populated by Neanderthal or early Homo sapiens.  Stone tools and use of fire enable hunting and gathering, but social units have not formed.  Language is mostly limited to expressive sounds and gestures.  Carved images from the Paleolithic period that are predominantly female suggests that goddess worship was dominant, and women’s mysterious generative power was respected.

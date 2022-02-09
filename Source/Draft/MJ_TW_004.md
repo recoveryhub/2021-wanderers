@@ -1,6 +1,6 @@
 # CHAPTER IV
 
-## PROPERTY
+## PROPERTY [^1]
 
 The sky hung grey, with wisps of cloud. It vaulted a valley, and was propped by hills, long as billows of the open main. In part the hills stood wooded, in part they wore a robe of grass and stunted bush. The valley had a grassy floor, like a miniature plain. It spread jade-green beneath that sky. Far off soared, darkly purple, one mountain peak.
 
@@ -283,3 +283,7 @@ At last there parted the struggling mass—the men flushed conquerors, the women
 Bondmen drove toward the trodden space sheep from the fold. Saran, the war-head, Endar Blackbeard, and other chief men took bow and arrow, shot strongly, and brought this game to earth.... The men were here, the beaten women there, the slain beasts lying beyond the two groups.
 
 Saran stood forth with Endar just behind him. “O valley women, war-men have been hunting, and are tired!—Go you and bring in our game!”
+
+## Footnotes
+
+[^1]: Chapter IV appears to be set in the Chalcolithic (Bronze) age (circa 3,500-1,500 years ago), when use of metal advanced production of tools, weaponry, and decorative items.    

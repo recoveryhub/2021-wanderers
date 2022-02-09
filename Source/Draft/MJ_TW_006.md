@@ -1,6 +1,6 @@
 # CHAPTER VI
 
-## THE PROPHET
+## THE PROPHET [^1]
 
 Halmis liked to sit by the river, among reeds or beneath willows, narrow-leaved and moving with the slenderest breath of Myr the air-sprite. Near her brothers’ house, where she lived, there lay among reeds, half drawn from the water, the ruin of a boat. It was a place to sit and think, whether the sun shone or the clouds scudded. Halmis possessed a stringed instrument of music, a thing akin to the lyre. Sometimes she brought this with her to the boat, and played upon it sitting there, hidden by the reeds. Sometimes she sang, her voice rising from the reed bed like a voice of the earth.
 
@@ -175,7 +175,7 @@ Her words had behind them at least an amount of comprehension. If it had been th
 
 Nevertheless, she ached to take the tall bright feather from Ramiki’s headdress—to take it at least for a time! In fact, she felt much as Ramiki felt. Where he had Halmis before him, she had before her Ramiki. When it came to that jealousy, there was small difference between them.
 
-The difference between them was a matter of the status of men and the status of women—of hunters’ stations. And this hunter may have a coign of vantage and, in security, bring down the game he wishes to bring down, and that hunter may be placed disadvantageously and the matter end quite differently.
+The difference between them was a matter of the status of men and the status of women—of hunters’ stations. And this hunter may have a coign of vantage[^2] and, in security, bring down the game he wishes to bring down, and that hunter may be placed disadvantageously and the matter end quite differently.
 
 Ramiki’s eyes burned. He looked over Halmis’s head at the many-shaped and tinted clouds. “Arzan spoke—Arzan! He told me things about women that I had not thought of before!”
 
@@ -231,7 +231,7 @@ She moved on toward the god-stone where the people were gathered. Ramiki kept he
 
 He came to the massed people; crying aloud, he pursued his way. “Arzan! Arzan!” he cried. “I have been with Arzan in the wood! O people of the river-plain, Arzan has given it to me to say!”
 
-The gathered folk were tow to flame, wax to the moment’s sharp impression. The crisis in their affairs had lifted them, shaken them awake. Now they were ready constantly for new excitement, craved the new, or the old made new. It had been good that Halmis the prophetess should prophesy of what the going stream might find! It was good that there should arrive the fresher alarum of Ramiki the prophet—Ramiki returning from an immediate interview with Over-Knowledge, Over-Power! “Arzan the great maker!” shouted Ramiki. “I have talked with Arzan! You have sinned before him, and I will show you how!”
+The gathered folk were tow[^3] to flame, wax to the moment’s sharp impression. The crisis in their affairs had lifted them, shaken them awake. Now they were ready constantly for new excitement, craved the new, or the old made new. It had been good that Halmis the prophetess should prophesy of what the going stream might find! It was good that there should arrive the fresher alarum of Ramiki the prophet—Ramiki returning from an immediate interview with Over-Knowledge, Over-Power! “Arzan the great maker!” shouted Ramiki. “I have talked with Arzan! You have sinned before him, and I will show you how!”
 
 All turned from prophetess to prophet. All saw Ramiki, but all had a sense of the overshadowing Energy. “Arzan!” cried the people, and “Hearken to the prophet!”
 
@@ -423,7 +423,7 @@ The music beat and blared. The women of the village looked aslant at the men, an
 >But evil of heart, and a bringer of ill.  
 >Arjaya stooped to the Arzan spring.  
 >She drank the water, she washed therein.  
->The tabu-water, the sacred spring!”  
+>The tabu-water[^4], the sacred spring!”  
 
 “*Ahhh!*” breathed the river-country people, men and women. It was so. They had known it must be so.
 
@@ -515,3 +515,11 @@ Arja and Arjaya, and how and when the Golden Age went down.... The river-country
 Ramiki ceased his singing. His heart was freed, and he felt relief and escape, and a cheerful largeness of mood. The anger against Halmis was fallen. There even stole again over his being a fondness for that prophetess. The energy that had boiled within, thick and murky red, had been beautifully worked off by the late improvisation. Diffused and expanded through quite vast ranges, it was no longer an aching and concentrated desire to pay Halmis back and to make evident his own superiority. He became conscious of a tranquillity, of something like vision above vision.... Through this pushed suddenly up, for all the world like a lily in a pond, a willingness, a desire, that Halmis should keep the red band upon her forehead, that she should go, if she would, like a young man, walking alone! But he had made it too late for that!
 
 The people of the river-plain thought it best that women should break no more tabus....
+
+## Footnotes
+
+[^1]: Chapter VI appears to be set in the later Iron Age.  People have a defining mythos that carries their history.
+[^2]: Coign of vantage: an advantageous position.
+[^3]: Tow: a bundle of untwisted fibers that are easily ignited.
+[^4]: Tabu: alternate spelling of taboo.  The OED definition includes this statement: “prohibited to a particular class (esp. to women).”
+ 

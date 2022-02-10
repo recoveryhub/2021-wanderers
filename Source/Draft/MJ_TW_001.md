@@ -59,5 +59,5 @@ It is probable that, of late, changes had been occurring among the particles of 
 ## Footnotes
 
 [^1]: Chapter I appears to be set in the Pliocene epoch (3-4 million years ago), populated by pre-human hominins (tree-dwelling but bipedal).  Since Johnston is writing a few years before Louis Leakey’s discoveries, we are unsure of her sources, other than Charles Darwin’s The Descent of Man and Selection in Relation to the Sexes.  Therefore, it is noteworthy, that the characters she imagines would now be designated as Australopithicus, of which numerous remains, including those of “Lucy” tell us much.  Since Australopihicus remains have been limited to Africa, we can imagine that to be the geographic setting of the story.  
-[^2]: Frugivorous:  Eating or feeding on fruit.  
-[^3]: De novo (Latin) From the beginning, anew.  
+[^2]: frugivorous: eating or feeding on fruit.  
+[^3]: de novo (Latin) from the beginning, anew.  

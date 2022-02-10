@@ -364,5 +364,5 @@ It ended with choice made, with a great number crying out for the choice that wa
 
 [^1]: Chapter V appears to be set in the Iron Age, which began approximately 1200 BCE.   
 [^2]: In a matrilineal society, name and inherited wealth flows from mother.
-[^3]: Frontlet:  a decorative band worn across the forehead.
-[^4]: Baldric: a belt worn over one shoulder that is typically used to carry a weapon.
+[^3]: frontlet: a decorative band worn across the forehead.
+[^4]: baldric: a belt worn over one shoulder that is typically used to carry a weapon.

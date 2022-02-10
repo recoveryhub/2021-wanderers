@@ -519,7 +519,7 @@ The people of the river-plain thought it best that women should break no more ta
 ## Footnotes
 
 [^1]: Chapter VI appears to be set in the later Iron Age.  People have a defining mythos that carries their history.
-[^2]: Coign of vantage: an advantageous position.
-[^3]: Tow: a bundle of untwisted fibers that are easily ignited.
-[^4]: Tabu: alternate spelling of taboo.  The OED definition includes this statement: “prohibited to a particular class (esp. to women).”
+[^2]: coign of vantage: an advantageous position.
+[^3]: tow: a bundle of untwisted fibers that are easily ignited.
+[^4]: tabu: alternate spelling of taboo.  The OED definition includes this statement: “prohibited to a particular class (esp. to women).”
  

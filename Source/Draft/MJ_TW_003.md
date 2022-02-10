@@ -251,4 +251,4 @@ The people of the long houses broke into loud, excited speech. Generations had w
 [^1]: Chapter III appears to be set in the Mesolithic or Neolithic (Stone) age (circa 10,000-3,500 years ago), populated by Homo sapiens.  Earlier Homo ancestors had migrated out of Africa to populate Asia and Europe.  Feminist historians believe that patriarchal theogonies developed in this period (8,000-3,000) years ago.  This story and several that follow show the influence of Sir James George Frazer’s *The Golden Bough*, which Johnston comments on reading in her diaries; the 12-volume 3rd edition was published 1906-15.  
 [^2]: Primitive belief in spiritual beings in nature that are capable of helping or harming human interests was termed Animism by Edward Burnett Tylor in *Primitive Culture*, published in 1871.
 [^3]: Mammoths are believed to have almost reached extinction 10,000 years ago.
-[^4]: Tole: To lure or decoy wild animals for the purpose of capture. 
+[^4]: tole: to lure or decoy wild animals for the purpose of capture. 

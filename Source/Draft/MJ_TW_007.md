@@ -189,10 +189,10 @@ In the wood, before the image of the god, upon the altar, they took the life of 
 ## Footnotes
 
 [^1]: Chapter VII appears to be set in a pre-Hellenistic sea-faring culture, such as ancient Greece or Phoenicia. This story, which provides a transition from prehistoric to historic eras, is based on a mythic a race of women warriors, rather then on peoples of a verifiable, even if murky past.
-[^2]: Drover: one who drives livestock to market.
-[^3]: Fifty-oared long-boat: a penteconter (likely precursor of a trireme), depicted in Homer's *Iliad* and *Odyssey*.
-[^4]: Ruth: compassion.
-[^5]: Rapt: abducted female; rare participial form of rape.
-[^6]: Distaff: a tool for hand-spinning of fibers; by extension figurative for women’s work.
-[^7]: Fane: a temple or shrine.
-[^8]: Prodigy: An extraordinary occurrence taken as an omen.
+[^2]: drover: one who drives livestock to market.
+[^3]: fifty-oared long-boat: a penteconter (likely precursor of a trireme), depicted in Homer's *Iliad* and *Odyssey*.
+[^4]: ruth: compassion.
+[^5]: rapt: abducted female; rare participial form of rape.
+[^6]: istaff: a tool for hand-spinning of fibers; by extension figurative for women’s work.
+[^7]: fane: a temple or shrine.
+[^8]: prodigy: an extraordinary occurrence taken as an omen.

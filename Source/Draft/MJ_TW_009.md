@@ -1,16 +1,16 @@
 # CHAPTER IX
 
-## GLAUCON AND MYRINA
+## GLAUCON AND MYRINA[^1]
 
-Glaucon, the statesman and soldier, walked homeward from the Prytaneum where the city had received certain strangers of note, envoys to Athens. With him moved Theodorus the sculptor, and behind the two several attendant slaves. The air was fine, with a breeze from the sea. Theodorus made his companion remark the light that fell upon Mount Lycabettus. Glaucon looked and said that the effect was good, but said it in a tone of abstraction. His mind was yet in the Prytaneum, engaged with his speech that the occasion had prompted. Glaucon’s phrases yet echoed in Glaucon’s ears. They had been good phrases and Glaucon thought them good. He would have judged “sententious” and “strong” to be applicable words. Those, and “at times eloquence, like the light upon Mount Lycabettus.” Yet was the statesman Glaucon by no means impudent of his merit nor a common braggart. He had spoken well and for the right as he saw it, and he saw more than many. And behind what Glaucon said stood, for men to see, many known courageous acts of Glaucon.
+Glaucon, the statesman and soldier, walked homeward from the Prytaneum[^2] where the city had received certain strangers of note, envoys to Athens. With him moved Theodorus the sculptor, and behind the two several attendant slaves. The air was fine, with a breeze from the sea. Theodorus made his companion remark the light that fell upon Mount Lycabettus[^3]. Glaucon looked and said that the effect was good, but said it in a tone of abstraction. His mind was yet in the Prytaneum, engaged with his speech that the occasion had prompted. Glaucon’s phrases yet echoed in Glaucon’s ears. They had been good phrases and Glaucon thought them good. He would have judged “sententious” and “strong” to be applicable words. Those, and “at times eloquence, like the light upon Mount Lycabettus.” Yet was the statesman Glaucon by no means impudent of his merit nor a common braggart. He had spoken well and for the right as he saw it, and he saw more than many. And behind what Glaucon said stood, for men to see, many known courageous acts of Glaucon.
 
-The two lived near the Diomean Gate. Now, making way through the crowded streets, the hour being one when men were abroad, they reached a palæstra and saw about to enter several of their acquaintance—Lycias the poet, Ion, Lysander, Hippodamus, and others. These called to the two to enter also and observe Thracian wrestlers. All{179} went in together and, mingled with a crowd, watched the mighty-thewed. When the match was over the group, leaving the palæstra, but still talking of the body and its powers, went along until there was reached the small temple of Hestia. Here the steps rose invitingly free of the crowd, and the space between the pillars smiled and invited. The light yet shone upon the mountains and upon the temples of the Acropolis. Lycias and Theodorus would pause and in the porch of Hestia continue the conversation while observing the beauty of the evening. Glaucon remarked that he had business at home. “Let it take its rest!” said Lycias. “You are a poet, also, Glaucon, and a painter and a maker of statues—just as I converse familiarly with envoys and undoubtedly fought at Megara, though I cannot just now recall having done so! Every man sacrifices in every temple. Stay and put up your hands to beauty, and let business go throw herself down from the wall!”
+The two lived near the Diomean Gate[^4]. Now, making way through the crowded streets, the hour being one when men were abroad, they reached a palæstra[^5] and saw about to enter several of their acquaintance—Lycias the poet, Ion, Lysander, Hippodamus, and others. These called to the two to enter also and observe Thracian wrestlers. All{179} went in together and, mingled with a crowd, watched the mighty-thewed. When the match was over the group, leaving the palæstra, but still talking of the body and its powers, went along until there was reached the small temple of Hestia[^6]. Here the steps rose invitingly free of the crowd, and the space between the pillars smiled and invited. The light yet shone upon the mountains and upon the temples of the Acropolis. Lycias and Theodorus would pause and in the porch of Hestia continue the conversation while observing the beauty of the evening. Glaucon remarked that he had business at home. “Let it take its rest!” said Lycias. “You are a poet, also, Glaucon, and a painter and a maker of statues—just as I converse familiarly with envoys and undoubtedly fought at Megara[^7], though I cannot just now recall having done so! Every man sacrifices in every temple. Stay and put up your hands to beauty, and let business go throw herself down from the wall!”
 
 “He was only a moment ago a poet,” said Theodorus. “You should have heard him at the Prytaneum upon Justice!”
 
 They turned into the porch of Hestia. Despite the light upon the temples, and despite the interposed action of the wrestling match, Glaucon, in an inner voice, was yet saying over this or that part of the Prytaneum speech. The difference lay in the fact that he was now saying them over to Myrina.
 
-“An encomium?” asked Ion.
+“An encomium?”[^8] asked Ion.
 
 “You would have thought it a voice from the Golden Age!”
 
@@ -30,7 +30,7 @@ Laughter arose. “Ion is newly come to town—he does not know! Address your qu
 
 “Who is Myrina?”
 
-“Myrina is a woman.—Lysander the silent, have you seen the new colonnade by the temple of Æsculapius?”
+“Myrina is a woman.—Lysander the silent, have you seen the new colonnade by the temple of Æsculapius?”[^9]
 
 “Knock! Knock!” quoth Lycias. “Doorkeeper and dog say ‘Not at home!’—Now, in the speech at the Prytaneum—Oh, here he is at home! Oh, voice from the Golden Age, discourse to us anew of Justice!”
 
@@ -50,7 +50,7 @@ Laughter arose. “Ion is newly come to town—he does not know! Address your qu
 
 “Justice—”
 
-“Later he brought in friendship and alliance, and the love of a friend for the true and the beautiful in his friend, and the friend’s desire that always his friend should lift with him. So that, climbing the mountain, one should not cry down to another, ‘Lo, now the sea opens before me! lo, now I see all Hellas!’ while the other cries sorrowfully up to him, ‘Still am I in the woods and briars and among the caves!’ He made application to states.”
+“Later he brought in friendship and alliance, and the love of a friend for the true and the beautiful in his friend, and the friend’s desire that always his friend should lift with him. So that, climbing the mountain, one should not cry down to another, ‘Lo, now the sea opens before me! lo, now I see all Hellas!’[^10] while the other cries sorrowfully up to him, ‘Still am I in the woods and briars and among the caves!’ He made application to states.”
 
 “By Ares!” interrupted Hippodamus, “that is not the way I look at it!”
 
@@ -62,9 +62,9 @@ Laughter arose. “Ion is newly come to town—he does not know! Address your qu
 
 Theodorus the sculptor looked again at the light upon Mount Lycabettus. “Something like that was what Glaucon said.”
 
-Lycias spoke. “By Pallas, a good speech!—But now propound—Does Athens take into alliance the country that sent the envoys?{183}”
+Lycias spoke. “By Pallas[^11], a good speech!—But now propound—Does Athens take into alliance the country that sent the envoys?{183}”
 
-Said suddenly Lysander the silent: “I came by the cross streets from the Agora and overtook an acquaintance who had been at the Prytaneum in the train of the Archon Timotheus. He said that he would stake his fortune that Athens would do no such thing!”
+Said suddenly Lysander the silent: “I came by the cross streets from the Agora[^12] and overtook an acquaintance who had been at the Prytaneum in the train of the Archon[^13] Timotheus. He said that he would stake his fortune that Athens would do no such thing!”
 
 “Father Zeus! I should think not!” said Hippodamus.
 
@@ -76,7 +76,7 @@ The two left the porch and, the slaves attending, went away in the purple twilig
 
 “Who is Myrina?” again asked Ion the stranger.
 
-“How short a while have you been in Athens!—Myrina! Ask the first street urchin you meet! He will say to you: ‘O Arcadian, for sense and wit the hetæræ are among women as is Hellas among countries! As is Athens to other cities of the Hellenes so is Myrina (and one or two others) among the hetæræ. For the rest,’ continues your urchin, ‘she is now the mistress of Glaucon the statesman.’”
+“How short a while have you been in Athens!—Myrina! Ask the first street urchin you meet! He will say to you: ‘O Arcadian[^14], for sense and wit the hetæræ[^15] are among women as is Hellas among countries! As is Athens to other cities of the Hellenes so is Myrina (and one or two others) among the hetæræ. For the rest,’ continues your urchin, ‘she is now the mistress of Glaucon the statesman.’”
 
 “Is Glaucon wived?”
 
@@ -142,7 +142,7 @@ Cleita lay still. Then she raised herself upon her elbow, and drew the linen a l
 
 Nothing further coming from beneath the linen, he turned, after waiting until he was assured that it would come not, and left the gynecæum. Going, he said to himself, “She is a child! To-morrow I will buy her some basket or fan or piece of silk.”
 
-Once more in the banquet-room he sat down and fingered the tablets covered with the accounting of Moschus the shipmaster. At last he pushed these aside, and with his elbows upon the table brought together his hands and rested his brow upon them. “Myrina—Myrina—Myrina! Deep and flowing and ever about me like River-Ocean—”
+Once more in the banquet-room he sat down and fingered the tablets covered with the accounting of Moschus the shipmaster. At last he pushed these aside, and with his elbows upon the table brought together his hands and rested his brow upon them. “Myrina—Myrina—Myrina! Deep and flowing and ever about me like River-Ocean—”[^16]
 
 Myrina, from her own house, bought with earned gold, watched, too, that day, the light upon Mount Lycabettus. She saw it caress the temples upon the Acropolis, and of the{188} great statue of Athena make a torch, a star, blazing gold. Myrina, walking in her garden, had driven a thorn into her unsandalled foot. After three days it yet troubled her, and this day she would go to the temple of Æsculapius. She went in an adorned litter, borne by slaves, her nurse beside her, behind her more slaves. The litter’s curtains were partly drawn aside. Athens might see a beautiful woman within, and, coming closer, demanding of those who knew, learn that it was Myrina.... Respect—they gave it in seeming abundance. Here was a learned and fair and rich woman, with great men for lovers! Gradually there grew about and behind the moving litter a crowd of the well-beseen. Dion walked upon one side, Simonides upon the other. Myrina spoke of the thorn in her foot, and the temple of Æsculapius, and then of a new poet and a new song and a new statue and a new comedy. She had rich laughter; she span a ball of warmth, and far and wide made it, rose-hued, enclose herself and all that approached. When they came to the temple of Dionysus, Daphnis and Menalcas and Strephon joined the procession of the litter. When they came to the plane trees and the colonnade and the court of the temple of Æsculapius the slaves brought the litter close to the ground. Forth stepped Myrina and halted upon one foot. Arms were outstretched, Strephon’s and Daphnis’s eyes brightened, they flushed rosy-red when she rested hand upon either, used them as staves for support. Priests of Æsculapius came to meet the rich train. Here was an inner court where a fountain bubbled clearly and flowers diffused their odours, and here were seats of marble for patients of high note. Myrina sat, and her nurse, kneeling, drew off the sandal. The light struck upon and made bright copper of Myrina’s red-brown head.{189}
 
@@ -188,7 +188,7 @@ Yesterday he had not come because he had been at the Prytaneum. Her mind opened 
 
 Myrina turned upon her arm.
 
-Later in the morning she rose and bathed, and the slave-girls put upon her a festival dress. To-day was to be held a celebration, choice and beautiful, before the Temple of Athena of the Victory. Myrina would go observe it, and perhaps afterwards for a little excursion beyond the walls, beside the shady Ilissus. Glaucon would not come till sunset—the day must somehow be passed!
+Later in the morning she rose and bathed, and the slave-girls put upon her a festival dress. To-day was to be held a celebration, choice and beautiful, before the Temple of Athena of the Victory[^17]. Myrina would go observe it, and perhaps afterwards for a little excursion beyond the walls, beside the shady Ilissus[^18]. Glaucon would not come till sunset—the day must somehow be passed!
 
 Athena of the Victory and her throng helped by the{192} limping hours. When there was no more good to be gotten there Myrina proceeded in her litter, slave-borne, through the southern Gate, and so on to the cool, brown stream, plane- and olive-shaded. Here, descending from the litter, she sat upon a rich cloth that they spread for her beneath a tree, huge, with mossed trunk and branches where the cicadas were making music. With her were Dion and Simonides, Phrygia her nurse, and a Thessalian slave-girl. Dion had a roll overwritten with poems. He read, and they discussed the verses that were read.
 
@@ -364,3 +364,24 @@ He gestured to those with him to go on, he himself turned under the trees. “My
 “Will you come? Perhaps I am only woman the snake.”
 
 Glaucon went with her. They went together from the Acropolis into the narrow ways.
+
+## Footnotes
+
+[^1]: Chapter IX appears to be set in ancient Athens, Greece, during or after the 5th century BCE.   
+[^2]: Prytaneum: City Hall of Ancient Greek city-states. 
+[^3]: Mount Lycabettus: the highest point in Athens.  
+[^4]: Diomean Gate: an avenue into the city of Athens. 
+[^5]: palaestra: a gymnasium. 
+[^6]: Hestia: Goddess of home and family. 
+[^7]: Megara: Athens won the Battle of Megara in 424 BCE. 
+[^8]: encomium: warm, enthusiastic praise. 
+[^9]: Aesculapius: Greek God of medicine and healing. 
+[^10]: The country that we know as Greece, has always been called Hellas by its own people, who call themselves Hellenes.  “Greece” is the English translation for the Latin name: Greacia. The modern country is known by its citizens as “the Hellenic Republic.” 
+[^11]: Pallas: another name for Athena, patron goddess of Athens.
+[^12]: Agora: the central outdoor market and meeting place. 
+[^13]: Archon: an elected city magistrate. 
+[^14]: Arcadian: someone from the country, lacking sophistication. 
+[^15]: hetaerae: cultivated courtesans. 
+[^16]: The ancient Greeks believed that a river, call Oceanus, flowed around the edges of the flat earth. 
+[^17]: Athena of Victory: another name for Nike, goddess of victory. 
+[^18]: Ilisos: A river that runs through Athens, now buried.

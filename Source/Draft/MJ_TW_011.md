@@ -165,7 +165,7 @@ From Gângya’s house came a calling. “Zira—Zira!” Zira turned, and Madha
 
 ##Footnotes
 
-[^1]: Chapter 11 appears to be set in ancient India, in a later Vedic or post Vedic period (during or after the 5th century BCE).  The Jumuna, also known as the Yamuna, is a major tributary of the Ganges and a sacred Indian river, flowing through New Delhi and Agra.  
+[^1]: Chapter XI appears to be set in ancient India, in a later Vedic or post Vedic period (during or after the 5th century BCE).  The Jumuna, also known as the Yamuna, is a major tributary of the Ganges and a sacred Indian river, flowing through New Delhi and Agra.  
 [^2]: This treatment was a norm for Hindu widows in ancient India, whose showed their status by having shaved heads.  
 [^3]: Vaisya: the third-level caste, composed of non-servile commoners, whose roles in society were as skilled laborers, farmers, and merchant tradesmen.  
 [^4]: Agni Dev: the Hindu fire-god, whose domain is the sun, lightning, and both the domestic and the sacrificial hearth. 

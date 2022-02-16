@@ -1,12 +1,12 @@
 # CHAPTER XVII
 
-## THEKLA AND EBERHARD
+## THEKLA AND EBERHARD[^1]
 
-Eberhard, Albrecht, and Ulrich, wandering students, came into Hauptberg on a winter noon, and knowing the town, made straight for the Golden Eagle, an inn loved by all vagabond students, young and not so young, “new men,” “poets” as against schoolmen, lovers of the pagan knowledge, droppers of corrosives upon the existing order, prophets of a world behind this-world, the humanist left. The Golden Eagle stood in an angle of the town wall, high red-roofed, shining-windowed, kept by Hans Knapp and Bertha his wife. The December sun made vivid all the red roofs of Hauptberg, it turned the huge cathedral into something lighter than stone, it tossed nodding sheaves of light among the prosperous burghers’ houses, it overwrote the walls of a monastery of Augustinian Hermits, it added scroll and circle of its own to the ornamented storied front of the mighty guild hall; and garmented the winter trees in the university close. The bright and nipping air put ripe apple colour into the faces of the various street-farers. These moved quickly, with bodies slightly slanted, arms folded; if they were well-to-do, in woolen and furred mantles. The poor also moved quickly, with unmantled shoulders shrugged together. The town musicians were somewhere at practice. One heard a great drum and horns.
+Eberhard, Albrecht, and Ulrich, wandering students, came into Hauptberg on a winter noon, and knowing the town, made straight for the Golden Eagle, an inn loved by all vagabond students, young and not so young, “new men,” “poets” as against schoolmen[^2], lovers of the pagan knowledge, droppers of corrosives upon the existing order, prophets of a world behind this-world, the humanist left[^3]. The Golden Eagle stood in an angle of the town wall, high red-roofed, shining-windowed, kept by Hans Knapp and Bertha his wife. The December sun made vivid all the red roofs of Hauptberg, it turned the huge cathedral into something lighter than stone, it tossed nodding sheaves of light among the prosperous burghers’ houses, it overwrote the walls of a monastery of Augustinian Hermits[^4], it added scroll and circle of its own to the ornamented storied front of the mighty guild hall; and garmented the winter trees in the university close. The bright and nipping air put ripe apple colour into the faces of the various street-farers. These moved quickly, with bodies slightly slanted, arms folded; if they were well-to-do, in woolen and furred mantles. The poor also moved quickly, with unmantled shoulders shrugged together. The town musicians were somewhere at practice. One heard a great drum and horns.
 
-In a number of the street-farers showed a degree of{362} excitement, an eagerness to exchange speech and views with acquaintances, or even with non-acquaintances. This itch was evident in many who encountered the incoming, wandering students. “From Wittenberg way? And what is the news?”
+In a number of the street-farers showed a degree of{362} excitement, an eagerness to exchange speech and views with acquaintances, or even with non-acquaintances. This itch was evident in many who encountered the incoming, wandering students. “From Wittenberg[^5] way? And what is the news?”
 
-Eberhard moved, a sinewy, bronzed, square-faced, blue-eyed fellow, in a green jerkin and a brown cloak. Ulrich was solid and blond, to the eye a benevolent young burgher, and to better apprehension a ramping dare-devil. Albrecht, slight, dark, and quick as a lizard, was the “poet,” with emphasis. He carried upon his back Virgil and Terence and Ovid, Cicero, and Seneca and Juvenal bound in a pack with Averroës, Avicenna, and Avicebron, and when he was not in earnest made good love songs and praised the vine. When he was in earnest he treated with vitriol the garden of Holy Church, much overgrown with weeds.
+Eberhard moved, a sinewy, bronzed, square-faced, blue-eyed fellow, in a green jerkin and a brown cloak. Ulrich was solid and blond, to the eye a benevolent young burgher, and to better apprehension a ramping dare-devil. Albrecht, slight, dark, and quick as a lizard, was the “poet,” with emphasis. He carried upon his back Virgil and Terence and Ovid, Cicero, and Seneca and Juvenal bound in a pack with Averroës, Avicenna, and Avicebron,[^6] and when he was not in earnest made good love songs and praised the vine. When he was in earnest he treated with vitriol the garden of Holy Church, much overgrown with weeds.
 
 The three were in wild spirits. They had news and they gave it. Some who received were terribly angered thereby, and some took with more or less evident pleasure, with a kind of half-frightened exultation. One or two said that wandering students were bred by the father of lies. A student from the university saying this more loudly than was prudent, Ulrich, moving amiably forward, took him by his girdle, swung him overhead, and set him—plank!—in the gutter skimmed with ice. A brawl threatened, Ulrich ready enough to stay for it. But Albrecht cried out that he was in ecstasy, that he had a vision of the Golden Eagle, that Hans Knapp was putting a log on the fire, Frau Knapp drawing the ale, and Gretchen Knapp setting a pasty on the table! So they swung from the drenched student and his somewhat timid backers. They had made miles that morning, and hungered and thirsted,{363} and they loved the Golden Eagle. That is Albrecht and Ulrich loved it; Eberhard was a stranger in Hauptberg.
 
@@ -34,7 +34,7 @@ Conrad Devilson beat with his tankard upon the table of the Golden Eagle.
 >>The Archbishop of Mainz,  
 >>The bull Exurge Domine, and  
 >>The Power of Rome  
->>Shall pass away!”  
+>>Shall pass away!” [^7] 
 
 He had a voice that boomed and reverberated. In came the three wandering students. “Why, here are others of the time’s darlings!” cried Walther von Langen.
 
@@ -124,7 +124,7 @@ Ulrich and Albrecht, Conrad Devilson and Walther von Langen struck hand on hand 
 
 Thekla drew the tress of hair from Conrad Devilson’s hand. She stood with eyelids drooped, her lips curved in a slight smile.
 
-The old man who seemed to make the clasp of the ring shook his head and sighed. “This matter of Owning is a long story, and events are yet to come.... I should like to see Albrecht Dürer try his hand on that.... Thekla, give me wine.”
+The old man who seemed to make the clasp of the ring shook his head and sighed. “This matter of Owning is a long story, and events are yet to come.... I should like to see Albrecht Dürer[^8] try his hand on that.... Thekla, give me wine.”
 
 Thekla left his side, then returned with a wheaten wafer and a cup of wine. The old man ate and drank. She{370} mended the fire for him, took away the cup and plate, and, returning, seated herself upon a cushion on the floor by his side. “Martin Luther has burned the Pope’s bull. Now will the Pope bid the Emperor to put him under ban. Maybe he will be slain as a heretic, and all persecuted who look to freedom. Maybe he will find friends in high places, and the Emperor will check the Pope. Maybe, with naught to aid but stronger light, he must fight both Emperor and Pope. Maybe, aroused, the people will go with him. Maybe all will see light—all—all!”
 
@@ -158,7 +158,7 @@ The wandering students were singing,—
 
 Now they were before the Golden Eagle, and out of door and window floated voices of Heinrich, Karl, and Johann.
 
-That was December. In February Charles the Fifth made to be drawn an edict against Luther. The Diet sitting at Worms refused assent. April, and Luther, at Worms, stood in his own defence, spoke with a great, plain eloquence. Eloquence never saved a man against whom set the main current of his time. The main current of his time going with him, Martin Luther rode in a seaworthy{372} boat. Storms there were, thunder and lightning, tempest and a lashed ocean—but the boat rode. May, and Pope and Emperor threatened that revolt and all who had share therein with fire in this world and in the world hereafter. The revolt made itself a stronger current.
+That was December. In February Charles the Fifth[^9] made to be drawn an edict against Luther. The Diet sitting at Worms refused assent. April, and Luther, at Worms, stood in his own defence, spoke with a great, plain eloquence. Eloquence never saved a man against whom set the main current of his time. The main current of his time going with him, Martin Luther rode in a seaworthy{372} boat. Storms there were, thunder and lightning, tempest and a lashed ocean—but the boat rode. May, and Pope and Emperor threatened that revolt and all who had share therein with fire in this world and in the world hereafter. The revolt made itself a stronger current.
 
 In May, Eberhard Gerson came again to Hauptberg. He slept at the Golden Eagle, and in the bright, exquisite morning sought out the house where dwelled Gabriel Mayr and Thekla. The cherry trees were at late bloom, and the morning breeze shook down the white petals. The house seemed to stand among fountains.
 
@@ -182,7 +182,7 @@ Thekla gazed at the tree heads against the blue sky. “Ah, cannot you remember 
 
 Behind the small red and brown house a cock crew. The two listened. “The crowing of a cock.... When I hear it from far away,” said Eberhard, “it pleases me so! It seems the oldest, oldest sound....”
 
-“He is a beautiful cock. His name is Welcome.”
+“He is a beautiful cock. His name is Welcome[^10].”
 
 “Welcome...?”
 
@@ -268,7 +268,7 @@ Presently Hauptberg knew that two nuns had left the Convent of the Vale, and tha
 
 Martin Luther heard of that happening, and preaching in Wittenberg, cried, “See how, God with them, those two came forth! Be of their company, monk and nun, throughout the land! O ye self-immured, do ye not see that ye cannot wall in God? Man cannot wall God in, and woman cannot wall God in! God—yea, in your bodies!—will walk free!”
 
-Others were breaking monastery and convent—this very year came from the Convent at Eisenach Catherine von Bora and her five sister nuns....
+Others were breaking monastery and convent—this very year came from the Convent at Eisenach Catherine von Bora[^11] and her five sister nuns....
 
 In Hauptberg, in the red and brown house behind the cherry trees, Thekla and Elsa kneeled beside their dying father. Gabriel Mayr was conscious, he had a peaceful and clear going forth. He put his hands upon his daughters{382}’ hands, the hands of the three held together. “Thekla and Elsa.... Wider and deeper being for us all—” His hands unclosed, life went out of his body. Thekla and Elsa rose and looked upon the shell beside the ocean.
 
@@ -339,3 +339,18 @@ Bending, they looked at the drawing together, read together the verses lying bes
 “‘They fit like two halves of an apple.’... To talk in terms of halves—how strange that must seem in a world where one says, ‘Lo, an apple!’”
 
 They laughed again, but then they sighed, looking from the window upon Hauptberg and the falling snow.
+
+## Footnotes
+
+[^1]: Chapter XVII appears to be set in Germany in the years when Martin Luther’s clash with the Church set the Protestant Reformation in motion (1520-25).  
+[^2]: schoolmen: scholastic theologians, academic authorities in Medieval Europe. 
+[^3]: humanist: one who turns away from medieval scholasticism with a revived interest in ancient Greek and Roman thought.
+[^4]: Augustinian Hermits are a medicant order, the monks having taken vows of poverty.  Martin Luther was an Augustinian Hermit.
+[^5]: The University of Wittenberg became a center of free thinking scholars, such a such as Martin Luther, who had joined the faculty as a professor of theology in 1508.
+[^6]: Latin Classics of Western thought from Latin, combined with Islamic classics of Mideastern through.
+[^7]: Medieval scholastic and church authorities, opposed by followers of Martin Luther.  Exsurge Domine was the papal bull promulgated by Pope Leo X (1520) in response to Luther’s teachings, which threatened excommunication unless he recanted.  He did not; he was.
+[^8]: Albrecht Dürer (1471-1528) is generally regarded as the greatest German Renaissance artist. 
+[^9]: Charles V, Holy Roman emperor from 1519-56, was a staunch opponent of the Reformation.  In 1521, he convened the Diet of Worms to adjudicate Luther’s heresy, and concluded with the Edict of Worm, excommunicating of Luther, an act that ironically stimulated the growing protestant revolt.  
+[^10]: This cock provides an echo back to one in Chapter XIV “The Hermits.” Repeated occurrence of roosters named “Welcome” suggests that the image, still evident today as a symbol of homely welcome, must have a long history.  
+[^11]: Catherine von Bora would become the wife of Martin Luther in 1525, two years after escaping the convent.
+

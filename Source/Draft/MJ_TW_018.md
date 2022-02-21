@@ -1,12 +1,12 @@
 # CHAPTER XVIII
 
-## THE RIGHT OF KINGS
+## THE RIGHT OF KINGS[^1]
 
 Richard Osmund and his white horse approached Great Meadow. The year was at autumn, the year 1654. A considerable village, Great Meadow spread over the ancient meadow and a short way up the hill. Meadow and hill had for a border a still, complacent river. The hill was crested by an old wood, and along the roadside stood huge, bronzing trees. A mile from town a stream turned a mill wheel. From the tall stone mill might be seen clustering houses with small bright dooryards, and the village green and an ancient church and churchyard.
 
-Richard Osmund rode slowly, a steadfast man in a plain dress of brown. Dress and his short-cut hair, and his uncocked hat, general demeanour as well, marked him for some shade of inhabitant of the Puritan and Parliamentary hemisphere. But within this general part of the globe it was hard to class him. He did not look mere Church Reform, nor yet Presbyterian, nor precisely Independent, not yet Anabaptist nor Leveller. Certainly he must be a dissident of some sort, but of what sort?
+Richard Osmund rode slowly, a steadfast man in a plain dress of brown. Dress and his short-cut hair, and his uncocked hat, general demeanour as well, marked him for some shade of inhabitant of the Puritan and Parliamentary hemisphere. But within this general part of the globe it was hard to class him. He did not look mere Church Reform, nor yet Presbyterian, nor precisely Independent, not yet Anabaptist nor Leveller.[^2] Certainly he must be a dissident of some sort, but of what sort?
 
-He possessed strength and erectness, with a clean accuracy of bodily movement. Perhaps he had been a soldier—Ironside. But even thus he was not wholly classed. There seemed to shine from him a kind of wisdom; he looked a thinker. Perhaps he was a member of that Parliament sitting in London Town, busy with English destinies. Yet even in this time of the Commonwealth, there should{390} be about him some little pomp and circumstance to mark him so important. There was not. So perhaps he was not important. He seemed about thirty.
+He possessed strength and erectness, with a clean accuracy of bodily movement. Perhaps he had been a soldier—Ironside[^3]. But even thus he was not wholly classed. There seemed to shine from him a kind of wisdom; he looked a thinker. Perhaps he was a member of that Parliament sitting in London Town, busy with English destinies. Yet even in this time of the Commonwealth, there should{390} be about him some little pomp and circumstance to mark him so important. There was not. So perhaps he was not important. He seemed about thirty.
 
 It was a still autumn morning, of a vision-like lift and clearness. The white horse went at a walk, Richard Osmund thinking as he rode. He came by the stone mill. The mill stream gave forth a crystal sound, the water flashed over the wheel. A couple of men, two or three boys, busied themselves before the great door.
 
@@ -18,7 +18,7 @@ Osmund had passed the door. The miller’s helper called after him, “Be Richar
 
 The rider turned his head. “Yes, friend! It is my name.”
 
-The miller and the miller’s helper broke into laughter—not kindly laughter. “Osmund on his white horse!” The laughter had in it a jeer, anger increased in it. The miller was a choleric man. He doubled his fists, he shouted to Osmund: “Throw you in the race! Come here, and I’ll throw you in the race!”
+The miller and the miller’s helper broke into laughter—not kindly laughter. “Osmund on his white horse!” The laughter had in it a jeer, anger increased in it. The miller was a choleric man. He doubled his fists, he shouted to Osmund: “Throw you in the race! Come here, and I’ll throw you in the race[^4]!”
 
 The man to whom he cried regarded him and the mill wheel and the mill race with a certain patient whimsicalness. “Flow race—turn wheel—fight with your sins, miller! Not with me who bring them to your mind!”
 
@@ -54,7 +54,7 @@ The thatcher gazed still, then he spoke and he seemed to quote some saying that 
 
 “Yes. Richard Osmund.”
 
-The thatcher, who was a slow, deep man, studied the situation. “If strange doctrines killed men I reckon that England would be a desert to-day!... Now, George Fox. I was at Reading, and I heard him witnessing before what he called the steeple-house. When he was done they beat and stoned him and took him away to gaol.... But{393} I didn’t taste poison in his words. I thought there was some honey in them.”
+The thatcher, who was a slow, deep man, studied the situation. “If strange doctrines killed men I reckon that England would be a desert to-day!... Now, George Fox[^5]. I was at Reading, and I heard him witnessing before what he called the steeple-house. When he was done they beat and stoned him and took him away to gaol.... But{393} I didn’t taste poison in his words. I thought there was some honey in them.”
 
 “So there is.—I will put White Faithful in the stable then.”
 
@@ -96,7 +96,7 @@ Broad, rounded steps led from the green to the churchyard gate. Here was goodly 
 
 Buyers and sellers, men and women, left the market. The men left the Green Wreath. There came together a mob, increasing from every side. In part it was curious and wished to hear, in part it was angry and wished but to loose its own passion. Here and there in the mass might stand a forward-looking soul, interested rather than curious, not inclined to mere fury against the new. But these were few set over against the many.
 
-Osmund stood, a resolute man, striving to cause an inner light to shine outward. He looked at the throng pressing around, close to the steps. He saw that it made a black and heavy cloud that might turn to a storm that should beat him down. By now he could well gauge these crowds that would listen so long as it pleased them to do so, and then would lift the arm of a phrenetic. Yet always, even in the midst of the darkest cloud, he could see, like stars in narrow rifts, listening faces, kindred eyes. But this was a heavy cloud and would surely break in storm.
+Osmund stood, a resolute man, striving to cause an inner light to shine outward. He looked at the throng pressing around, close to the steps. He saw that it made a black and heavy cloud that might turn to a storm that should beat him down. By now he could well gauge these crowds that would listen so long as it pleased them to do so, and then would lift the arm of a phrenetic[6]. Yet always, even in the midst of the darkest cloud, he could see, like stars in narrow rifts, listening faces, kindred eyes. But this was a heavy cloud and would surely break in storm.
 
 He opened his lips. “I have a call to speak to the people{397} of England!—England, England, thou hast heard many calling to thee, and sometimes thou harkenest, and sometimes thou turnest upon thy side. ‘Let me alone! A little more slumber and a little more sleep!’ And sometimes thou stainest thyself purple with the blood of those who cry!”
 
@@ -106,7 +106,7 @@ In the crowd was a score of mere barbarians. These began at once to shout agains
 
 His words made way against all difficulties. “Aye, aye!” cried the crowd, arrested. “We in England rule ourselves! We and Oliver rule ourselves!”
 
-Osmund laughed, standing on the churchyard steps. His laughter was not bitter, but clear and large. “So we say. ‘Lo,’ we say, ‘England is free!’ Freer than we were—that is sooth! But not free. No more so than is the prisoner who has broken one ward when there are twenty yet to break. Yet is that prisoner freer by just that broken ward, and stronger to work on by the new hope that is in him! Let him take courage and break ward after ward!{398}”
+Osmund laughed, standing on the churchyard steps. His laughter was not bitter, but clear and large. “So we say. ‘Lo,’ we say, ‘England is free!’ Freer than we were—that is sooth! But not free. No more so than is the prisoner who has broken one ward[^7] when there are twenty yet to break. Yet is that prisoner freer by just that broken ward, and stronger to work on by the new hope that is in him! Let him take courage and break ward after ward!{398}”
 
 “What ward, now? Now, what ward? Now shall we have Osmund’s doctrine!”
 
@@ -126,7 +126,7 @@ Osmund’s voice rose above the uproar. “What, shall not a woman learn, and if
 
 “Ha, ha!” cried the rougher folk. “He looks like a man, but mayhap he is a woman! A woman preaching!” A hand went down to earth, picked up a stone and flung it. It missed Osmund, struck the church gate. There arose gross laughter.
 
-“We have overthrown the King and the Lords. They may come again, because they are not out of our nature. But now we say that they are overthrown! And we say that the Commons of England are to be supreme. We say, ‘They govern because we choose them, and if they govern not aright, we may take them back!’ We say, ‘They are ourselves, sitting there; we have chosen them ourselves from ourselves.’... But all are men, chosen by men. O England, there should be women there no less than{400} men! Women and men should be there, chosen by women and men!”
+“We have overthrown the King and the Lords. They may come again, because they are not out of our nature. But now we say that they are overthrown! And we say that the Commons of England are to be supreme[^8]. We say, ‘They govern because we choose them, and if they govern not aright, we may take them back!’ We say, ‘They are ourselves, sitting there; we have chosen them ourselves from ourselves.’... But all are men, chosen by men. O England, there should be women there no less than{400} men! Women and men should be there, chosen by women and men!”
 
 The more hostile element uttered a kind of roar. A second stone was thrown. The constable and his men consulted among themselves if they should at once arrest Osmund.
 
@@ -211,3 +211,14 @@ They moved slowly, for they had been savagely beaten. But the interior sphere kn
 “Near Greenfield, in the country, live a family of the people called Friends. Let us go there first.”
 
 They moved across the plain. The stars were all lighted. Theirs were the worlds beneath, around, above and within.
+
+## Footnotes
+
+[^1]: Chapter XVIII appears to be set in England during the Puritan Interregnum, when the outcome of the English Civil War (1642-51) established the Commonwealth, governed first by Parliament, and after 1654, by Oliver Cromwell as Lord Protector.  The divine right of kings, referenced in the title was officially replaced by constitutional monarchy with the Glorious Revolution in 1688.
+[^2]: Different sects of English protestant dissenters arising in the 16th and 17th centuries. 
+[^3]: In the English Civil War, Cromwell's cavalry troopers were called “Ironsides” by their Royalist opponents because of their hardiness in battle.
+[^4]: race: the current of water that turns a mill’s water wheel.
+[^5]: George Fox (1624-91) was an English Dissenter who founded the Religious Society of Friends, commonly known as Quakers. 
+[^6]: phrenetic: (archaic) frenetic (obsolete) an insane or delirious person.
+[^7]: ward: (obsolete) a restraint to secure or control.
+[^8]: The House of Lords was abolished by an act of Parliament in 1649 and did not assemble again until the monarchy was restored in 1660. 

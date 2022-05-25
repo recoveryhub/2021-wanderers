@@ -205,9 +205,9 @@ THE END
 [^8]: A Pyrrhic victory occurs when the toll on the winning party is not offset by the rewards of success.
 [^9]: tribune: any form of a dais, pulpit, or platform in a building from which a speech can be prominently made.  
 [^10]: “Citizen” was the egalitarian descriptor adopted by the French Jacobins, when nobility and class privilege were abolished; ironically, women were not voting citizens.   
-[^11]: An apparent allusion to Thomas Paine, who moved to Paris in 1790 to support the French Revolution and published The Rights of Man in 1791.  
+[^11]: An apparent allusion to Thomas Paine, who moved to Paris in 1790 to support the French Revolution and published *The Rights of Man in 1791*.  
 [^12]: The London Corresponding Society (LCS) was established in 1792, committed to principles of popular sovereignty and constitutional government; it is unclear whether this LCS speaker suggests an historic figure.  
-[^13]: Mary Wollstonecraft, who like Paine, had moved to Paris to be part of the Revolution, wrote the A Vindication of the Rights of Woman, in response to the National Assembly’s decision not to grant women active (voting) citizenship. Guillotining of aristocrats began in 1792, and by autumn the Revolution had descended into the Reign of Terror.
+[^13]: Mary Wollstonecraft, who like Paine, had moved to Paris to be part of the Revolution, wrote *A Vindication of the Rights of Woman*, in response to the National Assembly’s decision not to grant women active (voting) citizenship. Guillotining of aristocrats began in 1792, and by autumn the Revolution had descended into the Reign of Terror.
 [^14]: tocsin: in French towns, an alarm provided to citizens, usually by means of bells. 
 [^15]: In Greek mythology, Hercules kills the Centaur Nessus to revenge a wrong, but then Nessus is revenged when the Hercules wears Nessus’ robe which has his poisonous blood on it.  
 [^16]: During the Reign of Terror, many Girondins, who were more moderate revolutionists, were killed by the more extreme Jacobins forces.  

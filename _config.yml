@@ -1,55 +1,48 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# See docs folder for details on implementation
 
-title: Mary Johnston’s The Wanderers
-email: 
-description: >- # this means to ignore newlines until "baseurl:"
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut eleifend justo. Quisque gravida est a quam ultrices posuere. Suspendisse potenti. Morbi in metus malesuada, facilisis neque at, ornare lorem. Vestibulum augue eros, consectetur nec rhoncus eu, rhoncus at urna. .
+## Site Settings
+
+### Site Information
+
+title: Mary Johnston's The Wanderers
+tagline: 
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut eleifend justo. Quisque gravida est a quam ultrices posuere. Suspendisse potenti. Morbi in metus malesuada, facilisis neque at, ornare lorem. Vestibulum augue eros, consectetur nec rhoncus eu, rhoncus at urna.
+
+### Site Structure
+
 baseurl: "/2021-wanderers" # the subpath of your site, e.g. /blog
-url: "https://recoveryhub.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://recoveryhub.github.io/" # should not change for Recovery Hub projects
+
+### Contact
+
+email: 
 twitter_username: TheCCWH
 github_username:  recoveryhub
 
-# Build settings
-theme: minima
-
-plugins:
-  - jekyll-feed
+### Site Setup / Defaults
 
 # Categories listed here must match the 
-# categories in defaults. 
-# The categoroes are not showing up in the 
+# categories in defaults, below. 
+# The categories are not showing up in the 
 # site.categories object  ¯\_(ツ)_/¯
+
+collections: 
+  - items
+  - test
+
 
 category_list: ["no_category", "site", "draft", "book", "periodical", "essay"]
 
 defaults:
   - scope:
-      path: "" # an empty string here means all files in the project
+      path: "_content" # an empty string here means all files in the project
       type: pages
     values:
       layout: default
       category: no_category
   - scope:
       path: "_pages"
-      type: pages
+      type: pages 
     values:
       layout: default
       category: site
@@ -79,6 +72,19 @@ defaults:
     values:
       layout: default
       category: essay
+
+
+
+
+
+# Build settings
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

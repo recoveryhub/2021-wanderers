@@ -30,12 +30,11 @@ collections:
   - items
   - test
 
-
 category_list: ["no_category", "site", "draft", "book", "periodical", "essay"]
 
 defaults:
   - scope:
-      path: "_content" # an empty string here means all files in the project
+      path: "" # an empty string here means all files in the project
       type: pages
     values:
       layout: default

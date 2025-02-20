@@ -28,7 +28,7 @@
 # shorter version here, and using the long version as the title of your 
 # homepage (the "title:" in the frontmatter/metadata of index.md).
 
-title: Recovery Hub Digital Edition Template
+title: Mary Johnston’s The Wanderers
 
 #############
 # Site URL #
@@ -37,7 +37,7 @@ title: Recovery Hub Digital Edition Template
 # url for Recovery Hub projects is "https://recoveryhub.github.io/"
 # for non-Recovery Hub projects, check your GitHub Pages URL
 
-baseurl: "/edition_template"
+baseurl: "/mary-johnston"
 url: "https://recoveryhub.github.io/"
 
 
@@ -50,9 +50,9 @@ url: "https://recoveryhub.github.io/"
 # you can do so using the Markdown file index.md.
 
 description: >- 
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear on your home page, in your document 
-  head meta for Google search results, and in your RSS feed.xml site description.
+  A digital edition of Mary Johnston's 1917 novel <em>The Wanderers</em>, supplemented 
+  with four editorial articles by Johnston that were published between 1910 and 
+  1914.
 
 
 ####################
@@ -76,13 +76,14 @@ description: >-
 #  - "items/books/filenameofbook.md"
 #  - "texts/filenameoftei.md
 #  - "paratext/essays/filenameofessay.md"
-#  - "about/md"
+#  - "about.md"
 #
 # Configure your links here:
 
 header_pages:  
-  - "paratext/docs/1-documentation.md"
-  - "paratext/docs/all-pages.html"
+  - "items/books/mj.bk00001.md"
+  - "paratext/editorials.md"
+#  - "paratext/docs/all-pages.html"
 
 
 ################
@@ -93,8 +94,8 @@ header_pages:
 # banner_size sets the width of the image. "half" is the default. 
 # For a full-width image, use banner_size: "full" instead.
 
-banner_image: assets/images/banner.jpg
-banner_alt_text: Recovery Hub of American Women Writers with quill icon and pages of a book in the background
+banner_image: assets/images/johnston-portrait-1909-loc.jpg
+banner_alt_text: Portrait of Mary Johnston, 1901.
 banner_size: "half" # change to "full" if you want a full-width image
 
 
@@ -107,7 +108,7 @@ banner_size: "half" # change to "full" if you want a full-width image
 # If you decide to set a default here, you can still override it on individual 
 # items by filling in "file_edited_by:" in the item's frontmatter/metadata.
 
-editor: Editor(s) names here
+# editor: Editor(s) names here
 
 
 
@@ -119,17 +120,17 @@ editor: Editor(s) names here
 # and won't be included in the site. To "uncomment" them and have them
 # appear on the site, remove the '#" from the beginning of the line.
 
-author:
-  name: Your name(s)
-  email: contact-email@example.com
-  institution: Your institution(s) or organization(s)
+# author:
+#  name: Your name(s)
+#  email: contact-email@example.com
+#  institution: Your institution(s) or organization(s)
 
 #privacy_notice: https://www.example.com/your-privacy-notice-url
 
 #twitter_username: YourUsername
-github_username:  YourUsername
+#github_username:  YourUsername
 #dribbble_username: YourUsername
-facebook_username: YourUsername
+#facebook_username: YourUsername
 #flickr_username: YourUsername
 #instagram_username: YourUsername
 #linkedin_username: YourUsername

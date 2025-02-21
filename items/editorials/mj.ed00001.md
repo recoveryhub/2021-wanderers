@@ -1,7 +1,7 @@
 ---
 layout: paginate
 title: The Status of Woman
-permalink: editorials/status-of-woman
+permalink: editorials/the-status-of-woman
 
 # Source Metadata
 author: Mary Johnston
@@ -72,8 +72,8 @@ She has a soul and she is a person.  She is the mother of humankind.  She made t
 I have seen in an asylum for the insane a gray-haired woman pacing off her cell for an imaginary carpet, stroking down imaginary curtains, placing imaginary chairs and tables, and then standing off to look at her work—so pleased, so pleased!  Upon her iron bed lay a doll. She listened, said that the baby was awake, took up the doll and put it to her breast. In Webster's "Duchess of Malfi," the two brothers send executioners first to terrify the duchess, and then to strangle her.  After a pageantry of horror they seize her. She says: 
 
 > "Farewell, Cariola . . . I pray thee look thou giv'st my little boy
->Some syrup for his cold . . . and let the girl
->Say her prayers ere she sleep"—
+> Some syrup for his cold . . . and let the girl
+> Say her prayers ere she sleep"—
 
 and dies.  
 
@@ -82,7 +82,7 @@ When the ruling passion so holds in death and madness it may be trusted to rule 
 ## Footnotes
 
 [^ref1]: Soon after her commitment to the cause of suffrage, Johnston submitted what we would characterize as an op-ed to the the Richmond Times-Dispatch, Sunday edition. This essay argues against the claim that if granted equal suffrage, women would abandon their roles as wives and mothers.  She does so be providing an evolutionary and global overview of womanhood that previews the plot and structure of *The Wanderers*, published seven years later.  
-[^ref2]: Chronicling America: Historic American Newspapers. Lib. of Congress.  [Link text](https://chroniclingamerica.loc.gov/lccn/sn85038615/1909-12-12/ed-1/seq-28/)[Link text](https://chroniclingamerica.loc.gov/lccn/sn85038615/1909-12-12/ed-1/seq-27/). 
+[^ref2]: *Chronicling America: Historic American Newspapers*. Lib. of Congress.  The Times Dispatch, December 12, 1909, [Page 3](https://chroniclingamerica.loc.gov/lccn/sn85038615/1909-12-12/ed-1/seq-27/) and [Page 4](https://chroniclingamerica.loc.gov/lccn/sn85038615/1909-12-12/ed-1/seq-28/).
 [^ref3]: Prehistoric era treated in chapter 1 of *The Wanderers*.
 [^ref4]: Prehistoric era treated in chapter 2 of *The Wanderers*.
 [^ref5]: Prehistoric eras treated in chapters 3-5 of *The Wanderers*.

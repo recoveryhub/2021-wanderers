@@ -23,7 +23,7 @@ file_edited_by:
 
 # These Things Can Be Done[^ref1]
 
-**_Virginia Suffrage News_ October 1, 1914, page 2**[^ref2]
+***Virginia Suffrage News* October 1, 1914, page 2**[^ref2]
 
 To-day all Europe is plunged into a wretchedness of shipwreck of all humane and cultural life.[^ref3]  Death and misery and poverty are abroad, and hatred is in the saddle.  Men have made war upon each other; they have stood Friendliness and Common Weal against a wall and shot her down. The resulting unhappiness is not alone for Europe; it is spreading to this country.  No country to-day liveth to itself or dieth to itself.  
 
@@ -46,7 +46,7 @@ MARY JOHNSTON
 ## Footnotes
 
 [^ref1]: The inaugural edition of the *Virginia Suffrage News*, published monthly by the Equal Suffrage League of Virginia, featured this essay by Mary Johnston, noted at the end. The essay provides an impassioned call to action that transcends the goal of suffrage to include sweeping egalitarian social transformation.
-[^ref2]: Virginia Commonwealth University’s Social Welfare History Image Portal [Link text](https://images.socialwelfare.library.vcu.edu/items/show/385).
+[^ref2]: Virginia Commonwealth University’s [Social Welfare History Image Portal](https://images.socialwelfare.library.vcu.edu/items/show/385).
 [^ref3]: World War I had begun in Europe in August 1914, just a few weeks before this speech. 
 [^ref4]: Johnston, like many pro-suffrage activists, was also a member of the Women’s Peace Party, which would become an international organization.   
 [^ref5]: In 1914 the following Western states had woman suffrage: Arizona, California, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, Wyoming.

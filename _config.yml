@@ -82,7 +82,7 @@ description: >-
 
 header_pages:  
   - "items/books/mj.bk00001.md"
-  - "paratext/editorials.md"
+  - "items/editorials/editorials-index.md"
 #  - "paratext/docs/all-pages.html"
 
 

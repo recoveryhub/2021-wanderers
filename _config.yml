@@ -217,7 +217,8 @@ category_list: [
   "essays", 
   "poems", 
   "documentation",
-  "correspondence"
+  "correspondence",
+  "editorials"
 ]
 
 defaults:
@@ -252,6 +253,12 @@ defaults:
     values:
       layout: default
       category: poems
+  - scope:
+      path: "items/editorials"
+      type: pages
+    values:
+      layout: default
+      category: editorials
 # Text (TEI)
   - scope:
       path: "_texts"

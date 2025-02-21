@@ -108,7 +108,7 @@ banner_size: "half" # change to "full" if you want a full-width image
 # If you decide to set a default here, you can still override it on individual 
 # items by filling in "file_edited_by:" in the item's frontmatter/metadata.
 
-# editor: Editor(s) names here
+editor: Jane Rose
 
 
 
